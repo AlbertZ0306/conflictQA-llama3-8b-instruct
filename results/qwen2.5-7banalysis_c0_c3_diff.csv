@@ -1,0 +1,1245 @@
+question,c3_mean_minus_c0_mean,c3_std_minus_c0_std,c3_range_minus_c0_range,category_primary
+ Is cactus fruit an important menu item for a restaurant based on Cuauhtémoc?,0.10174834911177,-0.0122598285063997,0.10593656308778276,c0_wrong_to_correct
+Are Aldi's foods discounted due to being out of date?,0.12677885689085178,-0.1774735901283141,-0.5592214878230102,c0_correct
+Are Big Ben's bells currently rung on their normal schedule at the Palace of Westminster?,0.1314014517907336,-0.08771411989439049,-0.08098321670496311,c0_correct
+Are Christmas trees typically deciduous?,0.0034806803666711517,-0.03921466233687512,-0.23865014998558842,c0_correct
+Are Disney's seven dwarves the original ones?,0.15511257834817505,-0.05732666949541862,-0.03653150743115252,c0_correct
+Are Donkeys part of Christmas celebrations?,0.0877428665538258,-0.12399545425753837,-0.26427923422704436,c0_correct
+Are Durian fruits an olfactory delight?,-0.025260188347809076,0.004240373289207039,-0.03960832619178234,c0_correct
+Are LinkedIn and LeafedIn related companies?,0.0030730442164305094,-0.014689417756336809,-0.0956225087841176,c0_correct
+Are Mayors safe from harm from the federal government?,-0.08810298634569913,0.10857316086231167,0.2766182931711221,c0_correct
+Are Sable's a good choice of Mustelidae to weigh down a scale?,0.03665435466688782,-0.038277822293247804,-0.08695665435304911,c0_correct
+"Are Scottish people descended from Mary, Queen of Scots part French?",0.02046541948976377,-0.0503415878265467,-0.19666727696916886,c0_correct
+Are System of a Down opposed to globalization?,0.09367101352894847,-0.024188964857967316,0.0940732672772937,c0_wrong_to_correct
+Are a dozen pickles good for easing hypertension?,-0.01748766632635268,0.06997352619031594,0.3150645265143964,c0_correct
+Are all United States Aldi locations owned by the same company?,0.03588508486811248,0.0013461027153683913,0.1966711810902496,c0_correct
+Are all characters in Legend of Robin Hood fictional?,-0.0034496812577740066,0.07811929549119198,0.30878659239860273,c0_correct
+Are all limbs required for jujutsu?,-0.018098044310685957,0.08049981592684602,0.3611407030834167,c0_correct
+Are all students guaranteed lunch at school in the US?,0.1237675103142657,-0.0733940806995386,-0.2730792315644376,c0_correct
+Are all the elements plants need for photosynthesis present in atmosphere of Mars?,-0.07722377196249508,0.10128953126416243,0.1346832007223171,c0_wrong_to_wrong
+Are all types of pottery safe to cook in?,-0.026897277623075255,0.06101345776666878,0.29560581484475945,c0_correct
+Are anchovies associated with Italian food?,0.05254147202998427,-0.014771731447059067,0.013553252796256965,c0_correct
+Are any letters directly before and after H missing from Roman numerals?,0.15169473493882635,-0.1874797917235934,-0.4810041661583011,c0_correct
+Are any minor league baseball teams named after felines?,0.04523732641694489,-0.062362685544528645,-0.16839233636723683,c0_correct
+Are any mollusks on Chinese New Year calendar?,-0.010614049367959955,0.08076136565852246,0.4689154844335779,c0_correct
+Are any of the destinations of Japan Airlines former Axis Powers?,0.013997388802136412,-0.0514646974901006,-0.18405312794743423,c0_wrong_to_wrong
+Are any of the words that CAPTCHA stands for palindromes?,-0.03258338443886877,0.12105631028466393,0.6282117932588956,c0_correct
+Are black and white prison uniforms made to resemble a zebra?,0.07155847275985827,-0.10682218896106287,-0.3096523704028664,c0_correct
+Are blue lips normal?,0.03849811872386222,-0.10164189305505898,-0.35558859973889145,c0_correct
+Are both founders of Ben & Jerry's still involved in the company?,0.06714799457406373,-0.061642062024878236,0.05640980841760368,c0_correct
+Are brown rock fish found in the waters surrounding Saint Kitts and Nevis?,0.07570783460299124,-0.10607436566466874,-0.02220815806149279,c0_correct
+Are classic nintendo games for emulator legal?,0.02581917047146376,0.00849786146138709,0.09797294351654973,c0_correct
+Are common carp sensitive to their environments?,0.053688297272004415,-0.09563804563669243,-0.29268524352483416,c0_correct
+Are coopers required in the beverage industry?,0.0908483797164521,-0.14746124185380943,-0.3839940841028078,c0_correct
+Are cucumbers often found in desert?,0.013392043745383608,-0.02817025261647224,-0.18705334487986192,c0_correct
+Are deaf people left out of enjoying music?,0.11588595715570882,-0.16038021665053753,-0.5758148308751009,c0_correct
+Are eagles and young bears both used as labels for skills-training youth groups?,0.1307388884156786,-0.14018903464973054,-0.20434271833815287,c0_wrong_to_correct
+Are emus related to elks?,0.016322057730338346,0.028738532797843455,0.22653915407435044,c0_correct
+Are fresh garlic cloves as easy to eat as roasted garlic cloves?,-0.037864563397075446,0.055554121215891816,0.3552340444086326,c0_correct
+Are goats found on abyssal plains?,-0.15939433856739404,0.1686460159107434,0.5874090476141749,c0_correct
+Are gorillas closely related to humans?,-0.007201486113414424,0.05288802209470006,0.29062694122287513,c0_correct
+Are ground bell peppers the main ingredient of black pepper?,0.05354512034502579,0.005788496957422645,0.01417889517917903,c0_correct
+Are hippos dangerous to humans?,-0.04513826709354041,0.07055416649265694,0.016655133451466186,c0_correct
+Are honey badgers and hyenas anatomically dissimilar? ,0.07974431643837421,-0.0626431343511134,-0.11151406628114757,c0_correct
+Are human footprints absent from Mount Sharp?,0.043968980330915675,-0.014286580646515418,0.13726650440300814,c0_wrong_to_correct
+Are implants from an ORIF surgery affected by the magnetic field of the Earth?,0.08547714290754527,-0.1154329553234907,-0.2111262032722505,c0_correct
+Are kayaks used at the summit of Mount Everest?,0.034447376545314934,-0.06488198371318057,-0.08593549002459044,c0_wrong_to_wrong
+Are leaves from coca good for gaining weight?,0.026337741404936166,-0.04801840291826276,-0.17024304748680175,c0_correct
+Are lengths measured in metres in the UK?,0.07072805760979595,-0.1742513764997838,-0.599455471884618,c0_correct
+Are looks the easiest way to tell rosemary from lavender? ,0.013775198381160147,-0.02360211913638363,-0.21210231634724885,c0_correct
+Are monks forbidden from engaging in warfare?,0.131453971887612,-0.10103374095783985,-0.02577650723816638,c0_wrong_to_correct
+Are months based on the solar cycle?,0.11035468884604538,-0.1499094985831148,-0.3343727509365846,c0_wrong_to_correct
+Are moose used for work near the kingdom of Arendelle?,-0.005671336968436136,0.03805094025979555,0.15294107578172944,c0_wrong_to_wrong
+Are more people today related to Genghis Khan than Julius Caesar?,0.037309405360296144,-0.03170890965763004,0.05300725761271863,c0_correct
+Are multiple Christmas Carol's named after Saints?,0.10118593833151623,-0.17484650700242274,-0.4784398386065989,c0_correct
+Are pancakes a bad snack for cats?,0.030109587264561477,0.022320882306811674,0.23744725430448788,c0_wrong_to_correct
+Are pancakes typically prepared in a pot?,0.031111478531772874,-0.03770586500531678,0.10799582403895402,c0_correct
+Are paratroopers good at mountain rescue?,-0.02834514471537708,0.0851993404534648,0.24556345003285096,c0_correct
+Are peaches best eaten when firm?,0.010092386995682712,0.004080021841949187,2.725229970634846e-05,c0_correct
+Are pennies commonly used in Canada?,0.14344067030186936,-0.22936046403656063,-0.6887730236401884,c0_correct
+Are people more likely than normal to get sunburn at Burning Man?,-0.016306583071740488,0.03888228428965554,0.21965099536161137,c0_correct
+Are pirate lieutenants like navy lieutenants?,0.02413398910546749,-0.0038258515097008006,0.19243251149917273,c0_wrong_to_wrong
+Are psychiatric patients welcome to join the United States Air Force?,0.06334440497561611,-0.07317735995117983,-0.10987411106947398,c0_correct
+Are quadrupeds represented on Chinese calendar?,0.03714201721236132,-0.0398976319859152,-0.0622754315059213,c0_correct
+Are queen bees unnecessary for growing apples?,-0.02293273016759534,0.04529427742420379,0.21227977393387476,c0_wrong_to_wrong
+Are rainbows devoid of color made by mixing yin and yang colors?,0.11439391271362698,-0.17832250542559713,-0.4645508934215131,c0_wrong_to_wrong
+Are raw carrots better for maximizing vitamin A intake?,-0.03953993498154795,0.009381286227627877,0.04828969845503572,c0_correct
+Are red legs a sign of failing health in those with Anorexia Nervosa?,0.0985430918640644,-0.11392384656811302,-0.2708577026924319,c0_wrong_to_correct
+Are right wing Amreicans opposed to marxism?,0.05951268888940975,-0.07876220161165488,-0.21077187622866211,c0_correct
+Are ropes required to operate a frigate?,0.09165699616315115,-0.12509119892117937,-0.4263140702845113,c0_wrong_to_correct
+Are sables related to wolverines?,0.006505620961922087,-0.03277509209784048,-0.2378002200477879,c0_wrong_to_correct
+Are saltwater crocodiles related to alligators?,-0.16076335092953464,0.19834549688568054,0.5847760829395313,c0_wrong_to_wrong
+Are sea turtles enjoying life during quarantine?,-0.13937514676970042,0.08494413251351043,0.30493992606329057,c0_wrong_to_wrong
+Are seasons of Survivor surpassed by number of Ancient Greek letters?,-0.018814636737434776,0.055100995194832435,0.17861354583466482,c0_correct
+Are selfies more dangerous than plague in modern times?,0.030040153845890205,0.04177632665359521,0.0646702154071005,c0_wrong_to_correct
+Are sesame seeds glued onto hamburger buns?,0.138646164724185,-0.15617884090216075,-0.3309460381701729,c0_correct
+Are slime lilies in a different scientific family than asparagus?,0.018846595312041137,-0.06908527023276487,-0.2981870809738999,c0_wrong_to_correct
+Are some Brazilian Navy ships built in Britian?,0.09126858141374561,-0.07362935357660778,-0.1150141137956382,c0_correct
+Are some Do It Yourself projects potentially lethal?,0.006803200093779771,0.028006850658898574,0.1654431747616676,c0_correct
+Are some adherents to Christianity in China historic enemies of Catholic Church?,0.01933285958521702,0.04104437612051967,0.14397622892466555,c0_correct
+Are some chiropractic manipulations dangerous?,0.013067456578950143,-0.001328228972302864,-0.059536757015863584,c0_correct
+Are some types of pancakes named after coins?,0.22041622217600287,-0.26163471868900995,-0.6458073489201588,c0_correct
+Are swastikas used in the most common religion in India?,0.08313992148755056,-0.1669850927358212,-0.5787114765537811,c0_wrong_to_correct
+Are tampons a good 24 hour solution for mentruation?,0.03696184617067522,-0.017184707724745923,0.1433553604748815,c0_correct
+Are the Great Lakes part of an international border?,0.06547867124233198,-0.1439402287574178,-0.5053587903613707,c0_correct
+Are the brooms from curling good for using on house floors?,-0.01778448863215143,-0.01709335908502041,-0.1461688094644843,c0_correct
+Are the colors on Marlboro package found on French flag?,0.006085852567038863,0.02913876450278896,0.13120101012098528,c0_correct
+Are the headquarters of All Nippon Airways near a beach?,0.11996440850823076,-0.08801258491971037,-0.11432551722548112,c0_correct
+Are the knights in the Medieval Times show not authentic knights?,-0.010356727610567718,0.0018037567518822406,0.22804313428733292,c0_correct
+Are the majority of Reddit users familiar with the Pledge of Allegiance?,0.10560987867886418,-0.09716778594919148,0.039120027204984975,c0_wrong_to_wrong
+Are the names of The Powerpuff Girls alliterative? ,0.042535218797787655,-0.09391426223713104,-0.3882557082089494,c0_correct
+Are there Pink music videos that are triggering for eating disorder patients?,0.11559178960535443,-0.06706484779684951,-0.15217715439206603,c0_correct
+Are there any chives hypothetically good for battling vampires?,0.07952365249202253,-0.1320129060822376,-0.368640477427465,c0_wrong_to_correct
+Are there any official American knights?,0.08322008924711144,-0.03286445744431976,-0.18324296473632518,c0_correct
+Are there enough Jonny Cash records in the world to give one to each French citizen?,0.008549452287371917,-0.01580084416855676,-0.014415751503451202,c0_wrong_to_correct
+Are there enough people in the Balkans to match the population of Japan?,-0.03101363212736208,0.03346474771950672,-0.03917845786582885,c0_correct
+Are there multiple American government holidays during winter?,-0.0440078647940938,0.022749133917234432,-0.1365247479717291,c0_correct
+Are there multiple Disney Zorro?,0.0730703303377892,-0.06267333933100627,0.015485086477769472,c0_wrong_to_correct
+Are there multiple Star Wars TV shows produced by Disney?,0.04372797083353397,-0.019936232782460345,0.175415238799713,c0_correct
+Are there people who are men who experience menstruation?,-0.0035080413595337534,0.02776658909068344,0.172162397332551,c0_wrong_to_wrong
+Are there some countries where waiting staff need no tip?,0.036546270659612023,-0.04491725927574722,-0.22753054760686664,c0_correct
+Are there special traffic laws associated with funerals?,0.009001554002842194,-0.0705887752848931,-0.06936753376180471,c0_correct
+Are there tearjerkers about United Airlines flights?,-0.018073318469145394,-0.026324930958132098,-0.05683530202872045,c0_wrong_to_wrong
+Are there winged statuettes in the home of the creator of Law & Order?,0.07046348989695539,-0.05128752773889142,-0.01785891998751532,c0_wrong_to_correct
+Are those incapable of reproduction incapable of parenthood?,0.02624092133450484,-0.00875151604439442,0.051752677034054395,c0_correct
+Are twinkies considered artisan made products?,0.02324762385878454,-0.055324095050447414,-0.1695015544796591,c0_correct
+Are twins always born during the same year?,-0.009728025999095613,0.014113895627178269,-0.049415654086459315,c0_correct
+Are two cans of Campbell's Soup a day good for hypertension?,0.004546378518871297,-0.028527480676148964,-0.08213416036305721,c0_correct
+Are vinegar pickled cucumbers rich in lactobacillus?,0.034978696558967015,-0.04199108682054355,-0.05148083654357616,c0_correct
+Are you likely to find a crucifix in Karachi?,0.017043408034863594,0.016495750913303853,0.08581022457768583,c0_correct
+Are you likely to hear Rammstein playing in smooth jazz clubs?,0.00891091146505485,-0.013787384057856178,-0.027915071016389792,c0_correct
+"At a presentation about post traumatic stress disorder, would Ariana Grande be a topic of relevance?",0.035298440279418974,0.0007035502840554153,0.24447077637702208,c0_wrong_to_correct
+Can 1980 United States presidential election result be considered a photo finish?,-0.031175734350225803,0.025878039264336655,0.06419838651632204,c0_correct
+Can Aerosmith fit in a 2020 Mitsubishi Outlander?,-0.007124069356800766,0.004146033327168341,-0.01997977493583769,c0_wrong_to_correct
+Can Aerosmith legally drive in the carpool lane?,-0.026460939688097596,-0.032652907775540085,-0.08434730635629317,c0_wrong_to_correct
+Can Africanized bees be considered multicultural?,0.09660066338102025,-0.13292534321479405,-0.27011223749801905,c0_wrong_to_correct
+Can Arnold Schwarzenegger deadlift an adult Black rhinoceros?,0.004875574455657672,0.016413995393731867,0.15416464406119834,c0_correct
+Can Billie Eilish afford a Porsche?,0.08916672665191361,-0.16815008570723367,-0.5372049531626141,c0_correct
+Can Curiosity (rover) kill a cat?,-0.12942639738395412,0.14132016199623817,0.19412932579424225,c0_wrong_to_wrong
+Can Cyril Ramaphosa become Secretary General of NATO?,0.08033628410856641,-0.11697839486870851,-0.3427256280305806,c0_correct
+Can DRL Racer X drone get across Brooklyn Bridge in 18 seconds?,0.0422717905253035,-0.0361323275093163,-0.08865969608793023,c0_correct
+Can Darth Vader hypothetically outdunk Bill Walton without using The Force?,0.09728119592948925,-0.04788909248573875,0.008569437707430683,c0_correct
+Can Family of Barack Obama ride comfortably in 2020 Jaguar F Type?,0.07004477196899483,-0.17289843345160777,-0.7087528085983934,c0_correct
+Can Harry Potter book a flight on Asiana Airlines?,0.10575139482677076,-0.18398990979000063,-0.6647103947733117,c0_wrong_to_correct
+Can Hulk's alter ego explain atomic events?,0.10613965781505241,-0.17981479352217333,-0.528113748234998,c0_wrong_to_correct
+Can I find my home with latitude and longitude?,0.07940989646605368,-0.08497847787741053,-0.27139146602775555,c0_correct
+Can I hold Bing in a basket?,0.024332510484703418,-0.0549242120531207,-0.12093398168955016,c0_correct
+"Can I ski in Steamboat Springs, Colorado in August?",-0.05768462902642146,0.08590040574697538,0.2519541433444439,c0_correct
+Can Jabberwocky be considered a sonnet?,-0.03153936207683883,0.04018783969042544,0.016685236141258608,c0_correct
+Can Josh Blue participate in Paralympics Games? ,0.0761249030053367,-0.120193890573667,-0.4726885305955826,c0_correct
+Can Justin Timberlake ride Shipwreck Falls at Six Flags?,0.09776846659722715,-0.08272647721208279,-0.11521759275141008,c0_wrong_to_correct
+Can Kate Gosselin's household fill out a Bandy team?,-0.05219661660409569,0.09483140150241537,0.3150593752627401,c0_correct
+Can Kit & Kaboodle hypothetically help someone past the Underworld gates?,0.062034926580437966,-0.09786515203823215,-0.20078334039207346,c0_correct
+Can Larry King's ex-wives form a water polo team?,0.03894104930296116,-0.015749467527303496,0.09213165761602726,c0_wrong_to_wrong
+Can Michael Jordan become a professional cook in America? ,0.10204949789587103,-0.10220104756785228,-0.20874236884382402,c0_correct
+Can Paprika be made without a dehydrator?,0.053363607024989435,-0.06149934402960293,-0.17086540782799253,c0_correct
+Can Reiki be stored in a bottle?,0.07166554971864114,-0.08250166079867444,-0.2012933843846163,c0_correct
+Can Spartina Patens thrive in the Sahara Desert?,0.005242817696655244,0.05509655121807805,0.35532607702836083,c0_correct
+Can Viper Room concert hypothetically be held at National Diet building?,-0.1273777647725829,0.15497209379686458,0.45449069559202104,c0_wrong_to_correct
+Can a Goblin shark hypothetically ride a bike if it had limbs?,0.0018195044830664475,0.012990132493081286,0.07800414147311652,c0_correct
+Can a Muslim eat a McRib sandwich?,0.05388451141494044,-0.09863886260785869,-0.3193309646042721,c0_correct
+Can a New Yorker get their eyes checked by Rand Paul legally?,0.07238006756745596,-0.06025014530830956,-0.10298943480044731,c0_wrong_to_correct
+Can a Reconstruction era coin buy DJI Mavic Pro Drone?,0.10087967819571608,-0.06807971906782237,0.02778253789866758,c0_wrong_to_wrong
+Can a banana get a virus?,-0.0033592457594737724,0.034071041048940875,0.17292271984865126,c0_correct
+Can a blind person tell time by Big Ben?,0.03560790064910191,-0.08721563547691655,-0.3521162918825651,c0_correct
+Can a cell fit inside of a shoebox?,0.01964129332135678,-0.0370528343964813,-0.09604050938335518,c0_correct
+Can a cheetah generate enough force to topple Big Show?,0.008863518491122435,0.004654351509692928,0.07590187424984585,c0_wrong_to_correct
+Can a chess board be converted to a Shogi board?,0.01018793563149245,0.007869923281400848,0.08766511300079527,c0_correct
+Can a copy of The Daily Mirror sustain a campfire?,0.10715041631072653,-0.12608815857477132,-0.2175175383273611,c0_wrong_to_correct
+Can a diamond float on water?,0.08890792387003288,-0.14941748724155152,-0.49968804599889016,c0_correct
+Can a firewall protect against a short circuit?,-0.0028034034653303674,0.008620596908392841,0.09301715945039746,c0_correct
+Can a goat be used for one of the ingredients in French toast?,-0.1507322429847071,0.043920679261284484,0.1114377693585763,c0_wrong_to_wrong
+Can a greyhound walk on two legs?,0.10851233304019514,-0.17836225491937693,-0.552835984920031,c0_correct
+Can a honey bee sting a human more than once?,0.006464374969710751,-0.007278848124760429,-0.02451297861438151,c0_correct
+Can a jet plane be made without society?,0.05684142476557397,0.023676833276745274,0.1851889240070832,c0_correct
+Can a minor replicate the double-slit experiment?,0.04150086654391694,-0.030933467993214392,-0.02105717577421229,c0_correct
+Can a minotaur hypothetically injure a tibia playing football?,-0.019183131672631526,0.07979013796558249,0.38433502995703817,c0_correct
+Can a person be diagnosed with a Great Depression?,0.09467151269514984,-0.15593708796888536,-0.5280159673253723,c0_correct
+Can a quarter fit inside of a human kidney?,-0.054755626070505214,0.040865015195429455,0.17796522743466392,c0_wrong_to_correct
+Can a sesame seed grow in the human body?,0.011432611790416658,-0.012883669506742745,-0.09985223253393283,c0_correct
+Can a single honey bee sting multiple humans?,-0.023504000419275584,-0.002861085384759071,-0.03741405013540855,c0_correct
+Can a sniper shoot a fish past Bathypelagic Zone in ocean?,0.03296376293311076,-0.03919684315510444,-0.1314508987830958,c0_correct
+Can a snow leopard eat twice its own body weight?,0.13412047589985832,-0.1291117218080548,-0.2672886033499915,c0_wrong_to_correct
+Can a snow leopard swim?,0.0696056569051896,-0.09375677798833594,-0.12932732857502194,c0_correct
+Can a software engineer work during a power outage?,0.09692808560448574,-0.09922399352169237,-0.296194399713563,c0_correct
+Can a ten-pin bowling pin be a deadly weapon?,0.0668375370138683,-0.005864152076962864,0.07433459734946257,c0_correct
+Can a traffic collision make someone a millionaire?,0.11893050582136411,-0.15278803237349342,-0.38348395054185225,c0_wrong_to_correct
+Can a woman on average have a baby before wheat seed blooms?,0.04048978285293692,-0.03632688005020154,-0.05242262510592599,c0_correct
+Can actress Danica McKellar skip astronaut education requirements?,0.10420219679762288,-0.09021738188081888,-0.06778862775509253,c0_wrong_to_correct
+Can amoebas get cancer?,0.13032543615563819,-0.14802794741730152,-0.11780255413652185,c0_correct
+Can an African Elephant get pregnant twice in a year?,0.07727373755018796,-0.0359870269134088,0.012242483375964452,c0_correct
+Can an Asian black bear use chopsticks?,-0.04406652281388557,0.14806405289064212,0.6085985719106766,c0_correct
+Can an elite runner circle the Pyrenees in one day?,0.06664127382711038,-0.030117541739464265,0.15921230042949963,c0_correct
+Can any person with a driver's license work in transport of aviation fuel?,0.04021252457616031,-0.06883682037473193,-0.1004419097680993,c0_correct
+Can binary numbers and standard alphabet satisfy criteria for a strong password?,0.08028089784807724,-0.07608985468721036,-0.13751221023113458,c0_correct
+Can black swan's formation type help spell longest word in Dictionary?,0.07416781218831714,-0.05156020861767174,0.011979860182204538,c0_wrong_to_wrong
+Can bottlenose dolphins hypothetically outbreed human women?,-0.05966573488553051,0.08547346825053434,0.2215580186366446,c0_correct
+Can crane slamdunk?,0.004766271144020728,0.04205875498631684,0.05646179948093466,c0_correct
+Can depression be mistaken for laziness?,0.021150386569912638,-0.013832846024901035,-0.05924924518079222,c0_correct
+Can first letter row of QWERTY keyboard spell a palindrome?,0.004540062223049035,-0.02754950355935004,0.04349376649830072,c0_wrong_to_correct
+Can furniture be made of hair?,0.005426657560264503,0.03869677618537726,0.119225041072061,c0_wrong_to_correct
+Can ham make a cut seal up quicker?,0.024213764508898672,-0.06454937340726755,-0.1833322628335754,c0_wrong_to_correct
+Can methane be seen by the naked eye?,0.042576117546162084,-0.09123387700324896,-0.33328928565057614,c0_correct
+Can monkeys use QWERTY keyboards?,0.050258860495835056,-0.11002678170733693,-0.5069170131774922,c0_wrong_to_correct
+Can native wolverines be found in Miami?,0.10529003451383867,-0.21717182082306757,-0.7147396623731546,c0_correct
+Can nitric acid break the Louvre?,0.13702628429502473,-0.13342113135741834,-0.14842637293121086,c0_wrong_to_correct
+Can numerologists become members of Royal Society?,0.09400291205629241,-0.07150914050068752,-0.1268973695011092,c0_correct
+Can oysters be preserved without refrigeration? ,0.15473541090602205,-0.21458681348504383,-0.47723728500783325,c0_wrong_to_correct
+Can paratroopers be used in a vacuum?,0.019501933043915565,0.010441683400199492,0.1517845277913331,c0_correct
+Can photography be considered abstract art?,0.046596303396140626,-0.03344192686724365,-0.049912699089866175,c0_wrong_to_correct
+Can professional boxers expect to have low dental bills?,0.07101268455260024,-0.07553610482522966,-0.12453761843554378,c0_correct
+Can rowing competitions take place indoors?,0.14905339180465427,-0.16613167476759555,-0.22059859111253066,c0_correct
+Can second row of QWERTY keyboard spell Abdastartus's kingdom?,0.08503144439804022,-0.1395587330636205,-0.3795356835621806,c0_wrong_to_correct
+Can someone in Uberlandia work for Mitsubishi?,0.07164568611161304,-0.13023543657416403,-0.41254384461750626,c0_correct
+Can someone sell their time through the Toronto Star?,0.12454528892488625,-0.19247236811882532,-0.6637124249186179,c0_wrong_to_correct
+Can someone with dermatitis be a hand model?,0.0281637719358101,-0.017938415466787067,0.012187758569415563,c0_correct
+Can spiders help eggplant farmers control parasites?,0.004732849844199305,0.020167378450695744,0.23089366952292212,c0_correct
+Can surgery prevent an existential crisis?,0.08432601003124252,-0.10873481599685109,-0.1958331850579167,c0_correct
+Can telescopes hear noise?,0.060404438027184204,-0.12782847148252238,-0.4905311479988502,c0_correct
+Can the Dalai Lama fit in a car?,0.052863174234588195,-0.06866377055660008,-0.21714499557772948,c0_correct
+Can the Great Depression be treated with Prozac?,0.07340208423936834,-0.160527580543331,-0.6219694170777951,c0_correct
+Can the Palace of Westminster tell time in the dark?,0.10785819472484404,-0.11454850680735605,-0.2208435638959959,c0_correct
+Can the Toyota Hilux tip the scales against Mr. Ed?,-0.003557516300967678,0.05357277608123254,0.27646475039630736,c0_wrong_to_correct
+Can the United Nations Framework Convention on Climate Change be held at the Javits Center?,-0.014479247082465951,0.08243792234092993,0.485822430698324,c0_correct
+Can the Very Large Telescope observe the largest mountain on Earth?,0.16950051992881787,-0.1267791289374897,-0.3106592009588226,c0_correct
+Can the largest crustacean stretch out completely on a king-sized mattress?,0.09953794205333777,-0.16190988833222442,-0.5035378207798232,c0_correct
+Can the majority of vowels be typed on the first line of a QWERTY keyboard?,0.07720087443775825,-0.13124631337820566,-0.34849647952897966,c0_wrong_to_correct
+Can the original name of the zucchini be typed on the top row of a QWERTY keyboard?,0.053589956549032425,-0.07888824441997684,-0.08561893256475539,c0_correct
+Can too many oranges cause diarrhea?,0.01784159708145039,0.01753537431815544,0.04767540640741219,c0_correct
+Can whole genome sequencing be used for COVID-19?,-0.01847972874456172,0.0678767023972187,0.37985938355348003,c0_wrong_to_wrong
+Can you avoid internet trolls on reddit?,0.07780902676207135,-0.0668770753136253,-0.16594022693183708,c0_correct
+Can you buy Casio products at Petco?,0.023892669778585507,0.0236884509825096,0.25219330653927796,c0_correct
+Can you buy a fair trade laptop?,0.06593502882925739,-0.11374423857020174,-0.3878339536589457,c0_correct
+Can you buy chlorine at a dollar store?,0.09736122804369984,-0.12160021538704793,-0.2217731749907237,c0_wrong_to_correct
+Can you buy furniture and meatballs in the same store?,0.00454765512301003,0.008464973785015178,0.034402939797661625,c0_correct
+Can you conduct surveillance from a teddy bear?,0.08674308689068011,-0.12732695233639924,-0.4855902114678783,c0_wrong_to_correct
+Can you drown in a Swan Lake performance?,0.07568182937558232,-0.09306225325254536,-0.13848563326859353,c0_correct
+Can you find Bob Marley's face in most smoke shops?,0.05742077243146548,-0.1279319112448401,-0.45100040361412086,c0_correct
+Can you find Depala's race in World of Warcraft?,0.07259140611945625,-0.13304908477474142,-0.5092915959552169,c0_correct
+Can you find a railroad engineer on TNT?,0.11619827602891253,-0.12460911924090223,-0.0834606732552865,c0_wrong_to_wrong
+Can you find a snow leopard in the Yucatan?,0.00444802284214596,0.011683984423322288,0.054150001175455986,c0_correct
+Can you give at least one word from the Torah to all residents of Bunkie Louisiana?,0.10756154765071058,-0.039477580257822525,0.13672914397759428,c0_wrong_to_correct
+Can you hide a basketball in a sand cat's ear?,-0.0013183660923373752,-0.017292649226763074,-0.023214675292449027,c0_correct
+Can you hide a pet macaque under your desk?,0.09358722840823874,-0.07820065832225614,-0.07860699015182404,c0_wrong_to_correct
+Can you house a giant squid at Soldier Field?,-0.18490400949483043,0.19940923888477696,0.45812281360824436,c0_wrong_to_correct
+Can you only see hippopotamus in Africa?,0.008186080124210182,0.005061208561349784,0.1340099803233613,c0_correct
+Can you purchase General Motors products at a movie theater?,0.0028582634941426432,0.01851998745193606,0.12358602617124681,c0_correct
+Can you purchase a dish with injera at Taco Bell?,0.018544099333264508,-0.03630152823276349,-0.13768836566074216,c0_correct
+Can you put bitcoin in your pocket?,0.06321288843802275,-0.04515771914486881,0.021062921123917056,c0_wrong_to_correct
+Can you see Stonehenge from a window in Dusseldorf?,-0.005634292435208188,0.0011825874220850463,-0.020589296522699696,c0_correct
+Can you see live harbor seals in Washington DC?,-0.045745662343329996,-0.022350755350194568,-0.143235980172838,c0_wrong_to_wrong
+Can you see the Statue of Freedom from the Statue of Liberty?,0.05840367345719333,-0.0314995360019239,0.020049296346236423,c0_correct
+Can you see the moon in Wembley Arena?,-0.028151322227970677,0.09685746382020155,0.390039849993592,c0_correct
+Can you substitute the pins in a bowling alley lane with Dustin Hoffman's Oscars?,0.007127652258206996,-0.07153989096609761,-0.3382266285266896,c0_correct
+Can you transport a coin along a sea of mercury?,0.12294716503562364,-0.2387387294135969,-0.6668026535891171,c0_correct
+Can you transport a primate in a backpack?,0.029124356188939382,-0.021004297409698308,-0.024304454497147687,c0_wrong_to_correct
+Can you use the T-Mobile tuesdays app if you aren't a T-Mobile customer?,-0.01758263723534792,0.024936330096536535,-0.03111752031455406,c0_correct
+Can you watch Rick and Morty in Mariana Trench?,0.05889959162038505,-0.11244749333337328,-0.14265024973951212,c0_correct
+Can you write a whole Haiku in a single tweet?,0.07262908554437064,-0.10068849375149588,-0.21134900799517264,c0_correct
+Can your psychologist say hello to you while you are out at the supermarket?,0.14380672424690755,-0.21138304904871413,-0.6113469677618002,c0_correct
+Could ABBA play a mixed doubles tennis game against each other?,0.05178435581479457,-0.09761939770468792,-0.4223723848363181,c0_wrong_to_correct
+Could B be mistaken for an Arabic numeral?,-0.01804008297593085,0.0554203180280716,0.22778354089906339,c0_correct
+Could Barron Trump have lived through the Mexican Revolution?,0.014772046695548324,-0.025491138481377643,-0.11375763305331243,c0_wrong_to_wrong
+Could Bart Simpson have owned comics with The Joker?,0.15446591398625154,-0.1507744602019369,-0.3861475252593307,c0_correct
+Could Buzz Aldrin have owned a computer?,-0.10676249910167768,0.12367833999240131,0.30030159147301105,c0_correct
+Could Carl Friedrich Gauss speak to someone 100 miles away?,-0.050851104336448794,0.03420995356532122,0.0041755773578462385,c0_correct
+Could Casio's first invention be worn around the ankle?,0.019373695399305557,-0.02853918452979967,-0.11495759189417987,c0_correct
+Could Charlie Bucket be a hotel manager?,0.03765869513763154,-0.09252858906202341,-0.3011439471942442,c0_wrong_to_correct
+Could Christopher Nolan borrow pants from Danny Devito?,0.026133969160124892,-0.022771209815930726,0.1049822017834734,c0_correct
+Could Christopher Walken enlist in the United States Marine Corps?,0.20825072193394434,-0.18007376094592698,-0.4015022156623439,c0_correct
+Could Chuck Norris ride a horse?,0.036071552940402984,-0.01953239842311938,-0.10612126119647103,c0_correct
+Could Cosmic Girls play League of Legends alone?,0.05273906149289742,-0.09861379073665438,-0.3938868452362291,c0_wrong_to_correct
+Could Durian cause someone's stomach to feel unwell?,0.075765536097673,-0.04089942331221086,-0.030937044800277036,c0_correct
+Could Eddie Hall hypothetically deadlift the world's largest cheeseburger?,-0.16597566577791945,0.15476933115051594,0.2295019458711791,c0_correct
+Could Edward Snowden have visited the headquarters of United Nations Conference on Trade and Development?,0.09843284158359478,-0.13868356936935142,-0.23249704956266415,c0_wrong_to_wrong
+Could Edward Snowden join MENSA?,0.05327295582884373,-0.02843241981032539,0.15886228118109202,c0_correct
+"Could Elizabeth I of England have seen the play Dido, Queen of Carthage ?",0.03676456134016459,-0.07659251251916496,-0.2077390886417576,c0_correct
+Could Goofy have counted nine planets in his first year?,0.027237756665556057,-0.05057308026175268,-0.19581756658145844,c0_wrong_to_wrong
+Could Intel products be purchased at McDonald's?,-0.04197136312943639,0.08390295369485617,0.2534630857786827,c0_correct
+Could Jamie Brewer have attended the United States Naval Academy?,0.12103098365015963,-0.1564380707031398,-0.4489516686205597,c0_wrong_to_correct
+Could Javier Sotomayor jump over the head of the average giraffe?,0.03151064001440229,-0.015219229452928668,-0.0037526741061371105,c0_correct
+Could Johnny Carson's children fill out a water polo team?,0.0003646825747808391,-0.06107605332710542,-0.2068205673209368,c0_correct
+Could Lil Wayne legally operate a vehicle on his own at the beginning of his career?,-0.04784815938002207,0.04721907589036112,0.06271842959227725,c0_correct
+Could Lil Wayne's children ride in a Chevrolet Corvette ZR1 together?,0.03912430296430813,-0.04480949758448656,-0.09712210015250688,c0_wrong_to_correct
+Could Marco Rubio ride the Candymonium roller coaster at Hershey Park?,0.020452853907000024,-0.004150865501468343,0.07980141979845456,c0_wrong_to_correct
+Could Moulin Rouge have been hypothetically used as Spain's Spanish American War triage center?,0.0059838257004575235,0.026237930517349184,0.18443333285190877,c0_wrong_to_wrong
+Could Oprah Winfrey buy dozens of her staff Bugatti luxury cars?,0.10431258090265161,-0.06896185028973431,-0.16831732618167694,c0_wrong_to_correct
+Could Quartz be useful to humans if plants died off and there was no oxygen?,0.10350255080167903,-0.0796039105550716,-0.27779373886515446,c0_wrong_to_correct
+Could Reza Shah be related to Queen Elizabeth I?,0.053302143876044705,-0.04453833232142329,0.007091376102871583,c0_correct
+Could Robert Wadlow hypothetically see Frankenstein's monster's bald spot from above?,0.07306873056910346,-0.084700149951705,-0.13262253989184802,c0_wrong_to_correct
+Could SNL be why Jenny McCarthy does not get along with her cousin?,0.06863611905925127,-0.06194394464935296,-0.06745737172114041,c0_wrong_to_wrong
+Could Sainsbury's buy Tesco?,0.09214131337052478,-0.09335490398678925,-0.0809546752099396,c0_correct
+Could Scooby Doo fit in a kangaroo pouch?,0.006215572763485722,0.005825773473487922,0.115105953234104,c0_correct
+Could Stephen King join the NASA Astronaut Corps?,0.09908385605157166,-0.07487613956291422,0.007170577246266019,c0_correct
+Could Sugar Ray Robinson box if he stole in Iran?,-0.013778741665993022,-0.01814663939433342,-0.05303883116419583,c0_correct
+Could William Franklyn-Miller win a 2020 Nascar Cup Series race?,0.04370749306316968,-0.07124724509546218,-0.29413827237515644,c0_correct
+Could a Bengal cat hypothetically best Javier Sotomayor's record?,-0.0027622079988034454,0.035296302346749686,0.21026508343487338,c0_wrong_to_wrong
+Could a Diwali celebration feature a crustacean?,-0.03231804748409506,0.04610877433406402,0.053244195162363006,c0_wrong_to_correct
+Could a bee hummingbird balance a scale with a single pea on it?,-0.014170279182670664,0.053346232323485315,0.33172857192262173,c0_correct
+Could a chipmunk fit 100 chocolate chips in his mouth?,-0.028425899044853375,0.05525268626956109,0.1751697839468901,c0_correct
+Could a dichromat probably easily distinguish chlorine gas from neon gas?,0.022744472156429274,-0.0499365171216479,-0.04097101702877015,c0_correct
+Could a fan of the Botany Swarm vote for John Key?,-1.1640623453490484e-05,-0.005322877318567093,-0.014698314702508819,c0_correct
+Could a giant squid fit aboard the deck of the titanic?,-0.020705203887253387,-0.010071268510860265,-0.07294046679151456,c0_wrong_to_correct
+Could a hundred thousand lolcats fit on a first generation iPhone?,0.22010847680744272,-0.1821519133386329,-0.3481673121346459,c0_wrong_to_wrong
+Could a markhor give birth three times in a single year?,-0.0011424597732025976,0.024642126598539288,0.07878168509261518,c0_correct
+Could a silverfish reach the top of the Empire State Building?,0.1163552343394707,-0.13322830063463442,-0.18242238230662966,c0_correct
+Could a single bitcoin ever cover cost of a Volkswagen Jetta?,0.04899401333510711,-0.043169783318209254,-0.15957229078427515,c0_correct
+Could a sloth hypothetically watch an entire episode of Scrubs underwater?,0.07185523298545426,-0.07687785190861571,-0.0980441779118969,c0_wrong_to_correct
+Could a snowy owl survive in the Sonoran?,0.003253517529877681,0.014320374323020302,0.1896318033339307,c0_correct
+Could a student at the University of Houston see a caracal on campus?,-0.01973722403739475,0.056621283775475734,0.38045016625936434,c0_correct
+Could a wandering albatross fly from Bucharest to New York City without a rest?,0.16023769174443392,-0.1372869516489468,-0.33839791923201523,c0_wrong_to_correct
+Could a young Wizard of Oz Scarecrow have gotten Cerebral palsy?,0.021504478464007826,-0.04759824557308437,-0.17367249934850615,c0_correct
+Could all Tahiti hotels hypothetically accommodate US D-Day troops?,0.013883966457705621,0.008148384701199801,0.07469462841377061,c0_correct
+Could amoebas have played a part in the Black Death?,-0.040540716301945,0.042029966588087664,0.22833165749531603,c0_wrong_to_correct
+Could an elephant easily defeat a male macaque?,-0.07625576768162112,0.13639113932794397,0.40231682314811257,c0_correct
+Could an escapee swim nonstop from Alcatraz island to Siberia?,0.03312752022354071,-0.023135384673606207,-0.08878163483603363,c0_correct
+Could an infant solve a sudoku puzzle?,0.032977239601873376,-0.057588329261737785,-0.19313129554348607,c0_correct
+Could chives be mistaken for grass?,0.0812419566939,-0.10627114756249942,-0.3193130779685631,c0_correct
+Could eating Chinook salmon help Ryan Reynolds?,0.016236775147351223,-0.012823955454861202,-0.04367663994676951,c0_correct
+Could largest ship from Voyages of Christopher Columbus haul Statue of Liberty?,-0.012815649635606552,0.04891633430201302,0.16577604514708255,c0_correct
+Could morphine cure HIV?,0.05942756676491834,-0.03625273253270961,0.10880739655744276,c0_correct
+Could someone mistake the smell of your brussels sprouts for a fart?,-0.03087669137260285,0.05686255042142324,0.21967345436376107,c0_correct
+Could someone theoretically use an armadillo as a shield?,0.008202647231493887,-0.009712370747313598,-0.04379725649961552,c0_wrong_to_correct
+Could someone with fine motor control issues benefit from an altered keyboard layout?,0.10153987943678355,-0.08836218012674482,-0.16378427702287568,c0_correct
+Could the Austrian casualties from Seven Years' War fit in Indianapolis Motor Speedway?,0.06668982449282046,-0.0301240031567431,0.07866911214976635,c0_wrong_to_correct
+Could the Port of Baltimore handle the entire world's cargo production of ginger each year?,-0.05955870685019793,0.07704554352675558,0.19161096621978624,c0_wrong_to_wrong
+Could the Powepuff Girls make the background to the Azerbaijani flag?,0.03168233261327835,-0.030784330615437838,0.10947853999663182,c0_wrong_to_wrong
+Could the Spice Girls compete against ŽRK Kumanovo?,-0.07281638737207752,0.1303922164130006,0.37670006454795846,c0_correct
+Could the children of Greek hero Jason hypothetically fill a polo team?,0.12040736430859933,-0.09361764878009798,0.0427661363822176,c0_wrong_to_correct
+Could the endowment of Johns Hopkins University pay off the MBTA debt?,0.10254323676139432,-0.07905636130334281,-0.04899738243461127,c0_correct
+"Could the main character of ""Alice's Adventures in Wonderland"" join a Masonic Lodge?",0.019041335542680282,-0.07203043089047426,-0.2945318254909267,c0_correct
+Could the members of The Police perform lawful arrests?,0.0035099199219416066,-0.01112196901620223,-0.043407592436850995,c0_correct
+Could you buy Hershey's Kisses in red foil with farthings after 1960?,0.05782181725063773,-0.0618627556967514,0.01356825243204296,c0_correct
+Could you go to New York Public Library and the Six Flags Great Escape in the same day?,-0.0031903118694445176,0.01575709085458632,-0.0401812263846113,c0_wrong_to_wrong
+Could you make the kitchen 'holy trinity' without celery?,0.002559045986031072,-0.01080083440775885,-0.13301975296756163,c0_correct
+Could you windsurf in Puerto Rico during Hurricane Maria?,0.03982823438114225,-0.02077649240069679,-0.029706242218431878,c0_correct
+Did Al Capone carry a smartphone?,0.019109226122937306,0.008830269021814982,0.062120768109468205,c0_correct
+Did Al Pacino act in a movie during World War II?,-0.05765231411516725,0.08104337494111052,0.30749665017885075,c0_correct
+Did Alan Rickman have an improperly functioning organ?,0.020783520933885358,-0.007888102832333266,-0.055552256616342666,c0_wrong_to_correct
+Did Alfred Hitchcock include internet slang in his films?,-0.059180345283210256,0.042576328818324224,0.048102400032582704,c0_correct
+Did Alfred Nobel write a banned book?,-0.022128501290012537,0.03631428273967449,0.07809680971451316,c0_wrong_to_correct
+Did Alice's Adventures in Wonderland inspire Macbeth?,0.02173933195251676,-0.04249975336798344,-0.06723012759593605,c0_correct
+Did Andy Warhol influence Art Deco style?,-0.0270242262025574,0.0584890999699152,0.24425478479321094,c0_correct
+Did Archduke Franz Ferdinand of Austria participate in the Pacific War?,-0.01684691049843079,0.010827935977967273,-0.11302819666581243,c0_correct
+Did Benito Mussolini wear bigger shoes than Hafþór Björnsson?,0.10669007253675677,-0.06849430299122944,-0.09190644985632335,c0_correct
+Did Bill Gates achieve Latin honors?,-0.024813319580157867,0.040221096462455,0.07063515594875536,c0_correct
+Did Bill Gates help to develop the PlayStation 4?,-0.07558999366120112,0.11949428536433865,0.3209376841913203,c0_correct
+Did Brad Peyton need to know about seismology?,0.07715178850691673,-0.10631669158470541,-0.21436313460299938,c0_wrong_to_correct
+Did Brazilian jiu-jitsu Gracie founders have at least a baker's dozen of kids between them?,0.19925118190464908,-0.2048176412652216,-0.3099240469379373,c0_wrong_to_correct
+Did Bruiser Brody wrestle on WWE Raw?,-0.011854003943163938,0.00989779596433124,0.051876570535361655,c0_correct
+Did Christina Aguilera turn her chair around for Kelly Clarkson on The Voice?,0.004073670449844968,0.022131655325762875,0.1913219390140386,c0_correct
+Did Christopher Columbus break the fifth commandment in Christianity?,0.09952875294929964,-0.05813533650092312,-0.026783548016284575,c0_wrong_to_correct
+Did Clark Gable appear in any movies scored by John Williams?,0.026874333439368847,-0.044288696437174035,-0.1811642481916168,c0_correct
+Did Clark Gable marry more women once than Richard Burton?,-0.07822375447167851,0.12537741343409425,0.4295444173599108,c0_wrong_to_wrong
+Did Columbus obtain his funding from the rulers of the Portugese Empire?,0.043442640848344816,-0.046864592572882974,-0.0059196215712961076,c0_correct
+Did Confederate States Army influence West Point fashion?,-0.007911193285909945,0.010178443716479718,-0.08509773791196995,c0_wrong_to_correct
+Did Cynthia Powell celebrate a silver anniversary with John Lennon?,0.03348539168765585,-0.0455227400446569,-0.05187554301283459,c0_correct
+Did Dale Jr hug his dad after their last Daytona 500 together?,0.057829381647003686,-0.05586140076604125,-0.06406295613280577,c0_correct
+Did Demi Lovato's ancestors help turn maize into popcorn?,0.05793166608532929,-0.052181565023174364,0.07954133451658874,c0_wrong_to_correct
+Did Disney get most of Rudyard Kipling's The Jungle Book profits?,0.020423470699035606,0.014103139484695604,0.09491101620971276,c0_wrong_to_correct
+Did Disney's second film rip off a prophet story?,0.014804488048559605,-0.028065714554984356,-0.010668119435031875,c0_wrong_to_correct
+Did Doctor Strange creators also make Batman?,-0.08387378674364465,0.173226656919683,0.6598341096502904,c0_correct
+Did Donatello use a smartphone?,-0.0795548741230534,0.20519170552061,0.668472727162947,c0_correct
+Did Douglas Adams use email as a child?,0.09788738756491522,-0.08920541905007351,-0.127609598979866,c0_correct
+Did Eddie Murphy's father see his first stand up show?,0.09422917502256145,-0.15657728600667883,-0.5907131635509301,c0_correct
+Did Eiffel Tower contribute to a war victory?,0.09043793834331715,-0.0906920110182366,-0.12541906885396104,c0_wrong_to_correct
+Did Elizabeth II frequently visit Queen Victoria?,-0.015361780038433581,0.045036326023882245,0.06467809548520476,c0_correct
+Did Elle Fanning play an essential part in ending apartheid?,0.07108764586932759,-0.12140606573177436,-0.41453477988196286,c0_correct
+Did Emma Stone pursue a higher education?,0.049598250374719544,-0.11381901345363514,-0.42905891683286546,c0_wrong_to_correct
+Did England win any Olympic gold medals in 1800?,0.010407173616522658,0.012692969213409344,0.2051638757902292,c0_correct
+Did Eric Clapton have similar taste in women to one of the Beatles?,0.10090005023556714,-0.1307225512953744,-0.35729657053522546,c0_wrong_to_correct
+Did Evander Holyfield compete in an Olympics hosted in the western hemisphere?,0.008512875430110589,0.01655344321940877,0.35556003429213456,c0_correct
+Did France win the French Revolution?,0.028376071643320455,-0.028197053864186916,0.04977924835361469,c0_correct
+Did François Mitterrand serve under Napoleon Bonapart in the French army?,-0.00391531023300784,-0.0006980397350546952,-0.03289066707137078,c0_correct
+Did Gauss have a normal brain structure?,0.08563593005612591,-0.07237461823079029,-0.28868832503286646,c0_correct
+Did Gladiator's weapon of choice require less hands than Soul Calibur's Faust?,0.0001745694249345453,0.029845399708844922,0.24554761311202344,c0_correct
+Did Hamlet's author use email?,-0.009514947685850483,-0.008063655910858752,-0.01637298069285431,c0_correct
+Did Harvey Milk ever run for governor?,0.004712195531280661,-0.004190133588966,-0.03101295547480276,c0_correct
+Did Heracles famous labors exceed a baker's dozen?,-0.08801456320328882,0.19940009700508107,0.6126808228554698,c0_correct
+Did Holy Saturday 2019 have special significance to pot smokers?,0.08835589305023395,-0.052289619568943985,-0.003400677897177795,c0_wrong_to_correct
+Did Ice make people rich?,0.13203960270766157,-0.10652722571803849,-0.07332245785393421,c0_wrong_to_correct
+Did Irish mythology inspire Washington Irving?,0.02838861504934198,0.017989232314808853,0.2905642166027498,c0_wrong_to_correct
+Did Ivan the Terrible use the Byzantine calendar?,0.013271995684653093,-0.06061301278278455,-0.2675104562765772,c0_wrong_to_correct
+Did Jack Dempsey fight the current WBC heavyweight champion?,0.017535282196110558,-0.012578766718770812,-0.03899440204847027,c0_correct
+Did Jack Dempsey have most title fight wins in either of his weight classes?,0.0905737210512021,-0.10330312124754384,-0.31781213941186925,c0_wrong_to_correct
+Did Jackson 5 members exceed number in The Osmonds?,0.0483332141280689,-0.024149872934801864,0.013075891023641928,c0_correct
+Did James Watson's partner in studying the double helix outlive him? ,0.03702851070507429,-0.03377704419609953,0.015741889914838936,c0_correct
+Did Jane Austen suffer from middle child syndrome?,-0.05301436797237613,0.04973689088661051,0.0653919872146802,c0_correct
+Did Japanese serfdom have higher status than English counterpart?,0.09935094420728396,-0.16371100188410997,-0.4790730300793916,c0_wrong_to_correct
+Did Jay-Z ever collaborate with Louis Armstrong?,0.11342633150729675,-0.15522110360718716,-0.5302754093276673,c0_correct
+Did Jeremy Irons master sweep picking as a child?,-0.037906825881471984,0.05067856171664398,0.1837833502998869,c0_correct
+Did Jerry Seinfeld have reason to cheer in 1986?,-0.012927242212734447,0.06649235436862205,0.3354112689759845,c0_correct
+Did Johann Sebastian Bach ever win a Grammy Award?,-0.02645508789113893,0.04567652595995915,0.18547946382713076,c0_correct
+Did Johann Sebastian Bach leave his first wife for his second wife?,-0.013421661278770092,0.04543902452204254,0.3726025961178139,c0_correct
+Did John Kerry run in the 2010 United Kingdom general election?,-0.11669016258480591,0.18044767448729174,0.5191542181137645,c0_correct
+Did John Lennon listen to Compact discs?,0.0556192450598193,-0.11005990991569414,-0.23031619317748397,c0_correct
+Did Johnny Carson win enough Emmy's to fill a carton if Emmy's were eggs?,0.03927499631737874,-0.10665684470350406,-0.19045357458754386,c0_correct
+Did Jon Brower Minnoch suffer from anorexia nervosa?,-0.041843069338172834,0.07554805869169257,0.0021157061152400347,c0_correct
+Did Julia Roberts practice blast beats as a child?,0.014312313876567617,-0.01841496590901262,-0.054392547264212276,c0_correct
+Did Julius Caesar read books on Pharmacology?,0.04107320082937882,-0.04305600275047777,-0.1144523078985159,c0_correct
+Did Karl Marx influence the communist party of China?,0.009797174028177702,-0.0029826386213657463,0.05123483845573695,c0_correct
+Did Kim Il-sung network on LinkedIn?,0.025198179957709343,-0.02487888456439974,-0.12171790442598451,c0_correct
+Did King James I despise fairy beings?,0.1640546557256376,-0.17783730338228623,-0.46201193817061204,c0_wrong_to_correct
+Did King of Portuguese people in 1515 have familial ties to the Tudors?,0.06438837117422513,-0.05546768232184279,-0.10572121945221391,c0_wrong_to_correct
+Did Klingons appear in the movie The Last Jedi?,-0.08055067459970833,0.1491451526669331,0.5849328977942418,c0_correct
+Did Kurt Cobain's music genre survive after his death?,0.0027861471797274717,0.020793069348632787,0.10141594589095682,c0_correct
+Did Leonardo da Vinci lack contemporary peers in his home city?,0.056082845548298454,-0.06724524915761607,-0.22091455683109074,c0_correct
+Did Martin Luther believe in Satan?,0.10381770346422092,-0.16415766443040153,-0.47386688448992664,c0_correct
+Did Medieval English lords engage in fair trade with peasants?,0.040425892606970604,-0.049044864099404284,-0.05192288763780739,c0_correct
+Did Metallica band members cutting their hair hurt their sales?,0.11451930676572786,-0.026901842239949486,0.010454067020966296,c0_wrong_to_wrong
+Did Methuselah live at least 800 years as long as Sarah?,0.08399631490813464,-0.09675570110763154,-0.3107715850327416,c0_wrong_to_correct
+Did Mickey Mouse appear in a cartoon with Bugs Bunny in 1930?,-0.08099511333572251,0.1279071427870767,0.38023828815607863,c0_correct
+Did Mike Tyson do something very different than McGruff's slogan to Evander Holyfield in 1997?,-0.05922007660639883,0.06432276115285288,0.19007116946525582,c0_wrong_to_wrong
+Did Mike Tyson train to use the gogoplata?,-0.012771641566325265,0.037731293927411313,0.058328102161095186,c0_correct
+Did Millard Fillmore help to establish the University of Pittsburgh?,0.006633165576283351,0.006262540988441104,0.13167625637347358,c0_correct
+Did Modern Family win a Slammy award?,0.013068483944178477,0.018898938752738487,0.062321309465143804,c0_correct
+Did Monty Python write the Who's on First sketch?,-0.0552072954131565,0.09714267744422443,0.43932406667244006,c0_wrong_to_correct
+Did Moon Jae-in earn the Abitur as a teenager?,0.012284605878456811,0.004121137725116991,0.11168968261645895,c0_correct
+Did Naruto escape the Temple of Doom?,0.047948399489724736,-0.09856695646409243,-0.33412891949546153,c0_correct
+Did Native American tribes teach Spaniards how to cultivate maize?,-0.06737473014305273,0.14487864774186548,0.5276848873085123,c0_correct
+Did Neanderthals use arithmetic?,-0.03131693618899112,0.057497306562262096,0.28285293293337876,c0_correct
+Did Nine Inch Nails inspire Aretha Franklin's sound?,0.05107230238172078,-0.07914486692191627,-0.014188557721034667,c0_correct
+Did Osama bin Laden likely abstain from alcohol?,0.07217301535634324,-0.049085910191844606,-0.24235047579826374,c0_correct
+Did Paul the Apostle's cause of death violate the tenets of Ahimsa?,-0.03359195218706168,0.04102603659914342,0.048385595582753016,c0_wrong_to_wrong
+Did Pedubastis I know Japanese people?,-0.09023982869588987,0.1717695083945721,0.5450044660130523,c0_correct
+Did Pink Floyd have a song about the French Riviera?,0.07035775417877554,-0.11688948345391818,-0.2475892841311914,c0_correct
+Did Polar Bears roam around in Ancient Greece?,-0.03321998061322484,0.05465295908388826,0.10975333956462863,c0_correct
+Did President William Howard Taft read DC Comics?,0.052780999375330206,-0.11663767517476933,-0.5210301727755838,c0_correct
+Did Queen Elizabeth I read the works of Jean-Paul Sartre?,0.0009933622129000286,-0.03170915816731572,-0.20576185527587854,c0_correct
+Did Queen Elizabeth The Queen Mother and her daughter share name with Tudor queen?,0.015199341219284346,0.006781590356006284,0.11264283873343761,c0_correct
+Did Rahul Dravid ever kick a field goal?,-0.03053169435272607,0.07632890497857965,0.3628185344758197,c0_correct
+Did Rand Paul frequently swim in Lake Michigan during his undergraduate years?,0.05429165456901641,-0.03945045415167814,0.1420597154592268,c0_correct
+Did Richard III's father have greater longevity than him?,-0.02998288096020918,0.039583044048721344,0.1262713287930335,c0_correct
+Did Rumi spend his time in a state of euphoria?,-0.006412545350784726,-0.005474616331796078,0.02470302784795353,c0_wrong_to_wrong
+Did Saint Augustine use the Julian calendar?,0.0012142514327290188,0.005759457194469381,-0.0743832347702924,c0_correct
+Did Sartre write a play about Hell?,-0.029523314416694646,0.03077354884746933,0.0016091395782008577,c0_correct
+Did Secretariat win a Formula One championship?,-0.07669996306172433,0.12632207485723662,0.3940493243333132,c0_correct
+Did Snoop Dogg refuse to make music with rival gang members?,0.05254984993894185,-0.07179145180102331,-0.023772754304499766,c0_wrong_to_correct
+Did Solomon make up bigger percentage of Islamic prophets than Kings of Judah?,-0.025357916842402295,0.06605932985440677,0.1725874975592181,c0_correct
+Did Sony definitively win the video game war against Sega?,0.08601209303252788,-0.08024870450440308,-0.17426308355721698,c0_wrong_to_correct
+Did Spiderman fight against Falcon in the MCU?,0.07447566256011562,-0.08482766241753276,-0.1419189430065455,c0_wrong_to_wrong
+Did Subway have a sex offender as a spokesperson?,0.150130352257403,-0.17601076569974916,-0.3134599492529352,c0_wrong_to_correct
+Did Terry Pratchett write about quantum mechanics?,0.04386836450998188,-0.02512809164439947,0.010035060268186125,c0_wrong_to_correct
+Did The Who have to cancel tours due to World War II?,0.019728554058799586,-0.09411952191011078,-0.3481484790058128,c0_correct
+Did Thomas Greenhill's parents violate the concept of monogamy?,0.007298252161452079,-0.01768506569768616,-0.10850961109891188,c0_wrong_to_correct
+Did Tony Bennett have more children than he had wives?,0.0005601536837478438,0.009468449885525032,0.0703470984979212,c0_correct
+Did U2 play a concert at the Polo Grounds?,-0.019152339362333848,0.019914470186984362,0.07843485117898552,c0_correct
+Did University of Pittsburgh founder have great deal in common with Judith Sheindlin?,-0.09362638975831672,0.052854674936658186,0.07472407346054166,c0_wrong_to_wrong
+Did Van Gogh suffer from a mental disorder?,0.14038259417612486,-0.2185419116612904,-0.6105387219849607,c0_correct
+Did Wednesday have something to do with Thor?,0.09419714176065896,-0.19287284048224165,-0.6876410825450763,c0_wrong_to_correct
+Did Woodrow Wilson consider Blacks to be equal members of society?,0.07585080661349453,-0.04027170916773676,0.21735864128867144,c0_correct
+Did Zorro carve his name into items regularly?,0.15605593699218467,-0.16769703797222651,-0.49671695730736953,c0_correct
+Did a Polish poet write sonnets about Islamic religion?,0.09232375559051542,-0.11454945602116112,-0.25601314196468905,c0_correct
+Did any Golden Globe winners attend John Kerry's alma mater?,0.11390787880626418,-0.22079289492005336,-0.7667525776430217,c0_correct
+Did any citizen of San Antonio vote for Boris Johnson?,-0.08515884947438501,0.08590153823512314,-0.012075424861646589,c0_correct
+Did any cultures associate celery with death?,0.022656833293253853,0.015701524839213665,0.08221830889372705,c0_correct
+Did any killer Manson band members were named for exceed Charles Manson's kills?,0.12716539066782806,-0.15324154447715804,-0.37510996268926466,c0_wrong_to_correct
+Did any of religions in which Himalayas are sacred originate in 19th century?,0.0791083860848496,-0.06582311340363647,0.005524035969551866,c0_correct
+Did any of the amazons on Xena: Warrior Princess star on later shows?,0.08399961001520662,-0.1677457858579663,-0.5656705923550043,c0_correct
+Did anyone in the 1912 election take a majority of the popular vote?,-0.0008244944218704919,-0.0028808739940548167,-0.02073810243770069,c0_correct
+Did breakdancing grow in popularity during WW2?,0.00651297428308828,-0.017089395527683682,-0.058181068632993216,c0_correct
+Did children read Harry Potter and the Philosopher's Stone during the Albanian Civil War?,0.05460668485367193,-0.10121271062886458,-0.43765021115070957,c0_correct
+Did compact discs make computer gaming more popular?,0.023953510379655985,-0.07858769395183016,-0.29068434894925654,c0_correct
+Did eggs need to be kept cold in the middle ages?,0.024558011598042606,-0.04355503970977399,-0.1232641838944799,c0_correct
+Did either Kublai Khan or his grandfather practice monogamy?,-0.03730119069613158,0.088122465253575,0.24478027954947912,c0_correct
+Did land owners elect their rulers in the Kingdom of Hungary?,0.06094999919230004,-0.06328136899629747,-0.12977935418246755,c0_correct
+Did mercenaries fight for England in the Glorious Revolution?,0.07701128199136964,-0.09983789359380253,-0.1852537824879572,c0_wrong_to_correct
+Did pirates who had scurvy need more Vitamin C?,-0.015495338041377371,0.07683664770222542,0.33761082054562797,c0_correct
+Did producer of Easy Rider ever star in a movie with Dean Cain's Princeton girlfriend?,0.14658430265612787,-0.10376586161020784,-0.0918281525252328,c0_wrong_to_correct
+Did the 40th president of the United States forward lolcats to his friends?,0.05757204592269205,-0.04410863002083515,0.15136463128206268,c0_correct
+Did the Beatles write any music in the Disco genre?,-0.045508177372122094,0.021066309594341998,0.06197850845278752,c0_correct
+Did the Cherokee people send a delegation to oppose allotment?,0.08551600970240036,-0.10227518306447825,-0.19647020808438231,c0_correct
+Did the Eastern Orthodox Church and the Byzantine Empire ever use the same calendar?,0.028751634695693196,-0.07059169419597298,-0.21095600432094364,c0_correct
+"Did the Gunpowder plot eliminate Mary, Queen of Scots bloodline?",0.05022723696468889,-0.09252548084994353,-0.20023674421233206,c0_correct
+Did the Nepalese Civil War take place near India?,-0.02779839846218335,0.09631507006005544,0.21908184580804568,c0_correct
+Did the Paramount leader produce Titanic?,-0.01772394585114756,0.06682111133122987,0.3404488711723004,c0_correct
+Did the Qwerty keyboard layout predate computers?,0.10917545065946044,-0.12851167135857916,-0.07013657820143493,c0_correct
+Did the Royal Air Force fight in the Boxer Rebellion?,-0.001753134835096537,0.004355855727317441,0.02310182397417415,c0_correct
+Did the Space Race use relay batons?,0.0805097807505526,-0.11961570165436088,-0.16393993445439714,c0_correct
+Did the Wall Street Crash of 1929 hurt the stocks of robotics companies?,0.11853862972808837,-0.10951906104902007,-0.13908973529221536,c0_correct
+Did the Watergate scandal help the Republican party?,0.0033201359191693536,0.012976817480370634,0.20514667573416479,c0_correct
+Did the band Led Zeppelin own a prime number of gilded gramophones?,-0.0027647845934736237,0.016736911598914196,0.07394833769769749,c0_wrong_to_correct
+Did the color green help Theodor Geisel become famous?,-0.026678111492457024,0.0445137494008484,0.09954002115766603,c0_wrong_to_correct
+Did the crew of Apollo 15 take pictures of Mount Sharp?,0.02321206918107588,-0.03874655618557274,-0.2854160184430945,c0_correct
+Did the death of Helen Palmer have a significant effect on Dr. Seuss?,0.07724431676776888,-0.12699758758889104,-0.4326599451248051,c0_wrong_to_correct
+Did the first Duke of Valentinois play a key role in the Hundred Years' War?,0.06377008398831907,-0.029933917017027606,0.09589810119851394,c0_correct
+"Did the founders of the biggest city in Orange County, California speak Italian?",0.12073336648787969,-0.21324341854169832,-0.6565868321008868,c0_correct
+Did the iPhone usher in the scientific revolution?,0.019319454502996547,0.01030800922176453,0.20870015851823898,c0_correct
+Did the lead singer of Led Zepplin ever perform with Ernest Chataway?,0.18969145804876997,-0.28419434138703586,-0.8743855814507654,c0_wrong_to_correct
+Did the leader of Heaven's Gate consider himself a prophet?,0.12103728841293304,-0.20351758221229307,-0.6296148228704833,c0_correct
+Did the phone Alexander Graham Bell use have call waiting?,0.04662371231114071,-0.07314498372993293,-0.0849151471708427,c0_correct
+Did the swallow play a role in a famous film about King Arthur?,0.05030317238236859,-0.025157421176856515,-0.056310832410221834,c0_wrong_to_correct
+Did travelers sing sea shanties on the Oregon Trail?,0.044184053089760034,-0.030197310210893613,0.08205736200670644,c0_correct
+Did villain that killed Superman murder Robin?,0.007836677171921602,0.01750589924890561,0.03416976900637814,c0_correct
+Do American teams in National Hockey League outnumber Canadian teams?,0.02662021591285113,-0.05585982445995104,-0.2931143896817049,c0_wrong_to_correct
+Do Apollo and Baldur share similar interests?,0.060394317903799344,-0.12387060660203297,-0.49518898441993664,c0_wrong_to_correct
+Do Bing (search engine) searches earn the searcher more than competitors do?,0.021990502046313365,-0.04937194223179567,-0.14112841280471722,c0_wrong_to_wrong
+Do Chinese Americans face discrimination at a Federal level in the US?,-0.16347950569341485,0.03222037110835446,0.07731639713770988,c0_wrong_to_wrong
+Do Flat Earthers doubt the existence of Earth's magnetic field?,0.023185241980265614,-0.0022761921971492793,0.24981913368062558,c0_wrong_to_correct
+Do Leafhoppers compete with Log Cabin syrup producers for resources?,0.08781222884012474,-0.11007015372440082,-0.2947678178370422,c0_wrong_to_correct
+Do Muslims have a different idea of Seraphim than Christians?,0.10936488841625269,-0.062233782849456604,-0.0422400494868882,c0_correct
+Do Shinto practitioners keep to a kosher diet?,-0.06400386914184886,0.11202598346058054,0.3280774881142795,c0_correct
+Do Shivambu practitioners believe ammonia is unhealthy?,0.04467277018854299,-0.030723098857109388,0.024965354774378334,c0_wrong_to_correct
+"Do Star Wars fans say ""beam me up"" often?",0.13117278002447552,-0.1576754648443497,-0.35538572967546767,c0_correct
+Do Windows or Android smartphones run newer versions of Linux?,0.1521125564532867,-0.18291335117575802,-0.46213435183387386,c0_correct
+Do Youtube viewers get unsolicited audiobook advice often?,0.11005452177609698,-0.05916863242896342,-0.02380192196151143,c0_wrong_to_wrong
+Do all of the African regions that participated in the Portugese Colonial War share an official language?,0.08138355308359635,-0.1334861501135443,-0.43225313046449654,c0_wrong_to_correct
+Do all shooting sports involve bullets?,0.06849342687591287,-0.11758565769616265,-0.2889287620757466,c0_correct
+Do anatomical and symbolic hearts look remarkably different?,0.10916754116810434,-0.09632484342914813,-0.13319457495876463,c0_correct
+Do ants outperform apes on language ability?,-0.005315481377331621,0.06154957933178093,0.3286668268857691,c0_correct
+Do any video games about the end of civilization have slot machines?,0.07262762936003453,-0.09178848734741933,-0.14568720198739005,c0_correct
+Do astronomers write horoscopes?,0.010111630974224517,-0.019898544083114852,-0.05403021916801798,c0_correct
+Do bald eagles nest on Mount Sharp?,-0.009326033489772567,-0.027963876551424377,0.029850347994898607,c0_correct
+Do beeswax alternatives to cling wrap use plsatic?,0.01702767745937539,-0.026889883738084805,-0.09513067835317335,c0_correct
+Do black swan cygnets typically know both of their genetic parents?,0.05307912115511382,-0.11996725205568319,-0.3512734979192108,c0_correct
+Do black-tailed jackrabbits fear the European wildcat?,0.05934908712685094,-0.1621369184662599,-0.7136803512817322,c0_correct
+Do bodies movie during hanging?,-0.02018403108213629,0.018546517312834715,-0.008023854502832717,c0_correct
+Do children send their Christmas letters to the South Pole?,-0.011566064094764461,0.06197434726463827,0.2534218191845161,c0_correct
+Do children's bicycles often have extra wheels?,-0.006345108137538302,-0.008914683078308283,0.08001072696178946,c0_correct
+Do citizens of Cheshire sing La Marseillaise?,-0.04696453635124054,0.07112498526013558,0.20382645128857135,c0_correct
+Do depressed people travel to the Golden Gate Bridge often?,0.0417102334101076,-0.04741235884507701,-0.03476041933279861,c0_wrong_to_correct
+Do drag kings take testosterone to look masculine?,0.03177500669364641,0.011237976486712292,0.018094976641778726,c0_correct
+Do drummers need spare strings?,0.039521226184049296,-0.08058613584839391,-0.16432440105597357,c0_correct
+Do embalmed bodies feel different at funerals?,0.10527089722968663,-0.13787426366078784,-0.4270208332429799,c0_correct
+Do flying fish have good eyesight?,-0.01189726099833932,-0.0017652490067358584,0.04689118648277968,c0_correct
+Do frogs feel disgust?,-0.04836066129032235,0.07234374378983874,0.28065565688663263,c0_wrong_to_wrong
+Do giraffes require special facilities at zoos?,0.09495782651191753,-0.17608716517819123,-0.5954204484397736,c0_correct
+Do guitarist's have fingers that can handle pain better than average?,0.14213677053875773,-0.14114640615342974,-0.2238024931823881,c0_wrong_to_correct
+Do guitarists need both hands to play?,0.02562260829993246,-0.0012676267291775734,0.26987518612038974,c0_wrong_to_correct
+Do hamsters provide food for any animals?,0.12078193266375725,-0.12262853356699392,-0.18804407001575274,c0_correct
+Do hornets provide meaningful data for oceanographers?,0.12215521941975582,-0.16929135959564323,-0.39726032120833266,c0_correct
+Do human sacrums have more fused vertebrae than an Alaskan Malamute?,0.10520004359674795,-0.13648892678673802,-0.177914165004053,c0_wrong_to_correct
+Do hyenas appear in a Broadway musical?,-0.009049873280416287,0.027054512020785695,0.1366313951182032,c0_correct
+Do mail carriers need multiple uniforms?,0.09812006946041174,-0.09424979714476259,-0.21942281097126315,c0_wrong_to_correct
+Do manta rays live in water above the safe temperature for cold food storage?,-0.022335903614085217,0.06248143316680971,0.18346789169294508,c0_correct
+Do members of NFL teams receive infantry training?,-0.05476006008393253,0.15276150283748902,0.6037876463911237,c0_correct
+Do most college students own a fax machine?,0.023743710152520747,0.007404225202540776,0.2758842720680693,c0_correct
+Do most high school head coaches make as much as the Head Coach at NCSU?,0.0630272401489006,-0.09845972497748054,-0.38838337464182604,c0_correct
+Do most religious people in Quebec refer to the Quran?,0.017278024496835465,-0.056735160279812284,-0.21550241222210265,c0_correct
+Do moths that live on sloths have family dinners?,-0.022200158321870167,0.07160500786800122,0.15369943767694183,c0_correct
+Do mountain goats inhabit the summit of Mount Sharp?,-0.10214455592956606,0.14726085305666559,0.49197439147390043,c0_correct
+Do oak trees have leaves during winter?,0.06180411785714279,-0.0653525531968229,0.05122949283218925,c0_correct
+Do onions have a form that resembles the inside of a tree?,0.12435745077250093,-0.09384906013078229,-0.2359121294073977,c0_wrong_to_correct
+Do people associate greyhounds with the movie 'Homeward Bound'?,0.11140106253880033,-0.1841044869462773,-0.5851394266054971,c0_correct
+Do people in middle school usually get breast exams?,0.0017027854252192887,0.029562138850887876,0.105126808540425,c0_correct
+Do people of the Iyer caste eat meat?,0.0845926790139182,-0.11782222121280116,-0.3437140926972264,c0_correct
+Do people put creatures from the Black Sea on their pizza?,0.07796106057888097,-0.06305683792419439,0.06069300694957247,c0_wrong_to_wrong
+Do people remember Lucille Ball's winemaking as successful?,0.14528946310660207,-0.14469822105141666,-0.34120164575427814,c0_correct
+Do people still see Henry Ford's last name often?,0.1654428435216172,-0.24517695046304352,-0.7697744257281268,c0_correct
+Do salmon mate in the Caspian Sea?,0.017492591494545184,0.04513096601157329,0.3449565107250576,c0_correct
+Do shrimp taste best when cooked for a long time?,0.07266662474636698,-0.10861969320922231,-0.3815609943077001,c0_correct
+Do silicone suits make judo difficult?,0.023179215795716024,-0.04474901206610804,-0.20969681849923383,c0_correct
+Do some home remedies result in your skin color turning blue?,0.05653257602480399,-0.039386472867601455,0.044900631830689264,c0_wrong_to_correct
+Do some psychotherapy patients have no mental illness?,-0.03062624315020479,0.04789163235843441,0.08623443592938551,c0_correct
+Do spider wasps have eight legs?,0.03933400815576693,-0.08722816580254986,-0.3306769390499923,c0_correct
+Do suburbs encourage the use of cars?,0.0325001841399839,0.006135057344741818,-0.03675090725948449,c0_correct
+Do the James Bond and Doctor Who series have a similarity in format?,0.07524646572146643,-0.048157873941362145,-0.012453475369649025,c0_correct
+Do the Ubuntu people speak Ubuntu?,-0.027724881048503347,0.0291382078397531,0.0948870409245599,c0_correct
+Do the anchors on Rede Globo speak Chinese?,0.0013444315885005054,0.0046342299565935025,0.04633083515852954,c0_correct
+Do the telescopes at Goldstone Deep Space Communications Complex work the night shift?,-0.11241096370625214,0.11207206631040949,0.23820228206172134,c0_correct
+Do white blood cells outnumber red blood cells in the human body?,0.013472685909482918,0.029082247963610725,0.16853722451240083,c0_wrong_to_wrong
+Do women often need new shoes during their pregnancy?,-0.012183343030363836,0.09256524921787,0.36119982024936204,c0_correct
+Do worshipers of Shiva make a pilgrimage to the Holy Land?,0.011516855742306986,0.012585441956901616,-0.03807874136448686,c0_correct
+Do you have to pass through circle of lust to find Saladin in Dante's Inferno?,0.025852558894656208,-0.04113195970354949,-0.12121042242270197,c0_correct
+Do you need a large room if you want to get into 3D printing?,0.03713108799397191,0.0016723346225809288,0.013400935850365725,c0_correct
+Do you need different colored pens for sudoku?,-0.02148927964715719,0.043463824841594556,-0.0670705344395589,c0_correct
+Do you often hear Marco Polo's name shouted near water?,0.12269997017673129,-0.09572003237178604,-0.1578852156252426,c0_wrong_to_correct
+Does 50 Cent get along with Jeffrey Atkins?,0.049917405061576936,-0.033229908796541835,-0.04994225031817867,c0_correct
+Does Adobe Suite have video game engine coding?,0.053416178661449876,-0.07847763366461438,-0.10920413751203517,c0_wrong_to_wrong
+Does Ahura Mazda have a rivalry with Zeus?,0.028368804552959315,-0.06219170333390078,-0.18736321537753842,c0_correct
+Does Amtrak operate four wheel vehicles?,0.02746900291590626,-0.002288868523801557,0.05935191619524971,c0_correct
+Does Antarctica have a lot of problems relating to homelessness?,0.08831257556753414,-0.15081349448704773,-0.4923359118683359,c0_correct
+Does Ariana Grande's signature style combine comfort items and high fashion?,0.05988167778773368,-0.039463936217293716,-0.1433050491056279,c0_correct
+Does Buddy The Elf know anyone who works in publishing?,0.0604282527562795,-0.07159078329896361,-0.3028772036460532,c0_wrong_to_correct
+Does Capricorn astrology symbol have all of the parts of a chimera?,0.011885659644808588,-0.01577983734638172,-0.11163670503627665,c0_correct
+Does Carl Linnaeus share the same final resting place as Michael Jackson?,0.03571273865518776,-0.07769101586638595,-0.39273921925459543,c0_correct
+Does Carmen Electra own a junk?,-0.053262986141192625,0.06894142264299322,0.1851144522315349,c0_correct
+Does Coast to Coast AM have more longevity than the Rush Limbaugh show?,0.016496054247146064,0.02098429181839631,0.31070344900153524,c0_correct
+Does Darth Vader's character resemble Severus Snape?,-0.016106436653686274,0.01485573010650626,-0.13073243401465562,c0_correct
+Does Disney have an ice princess?,-0.06272850455562073,0.09719916034923726,0.26771400336116524,c0_correct
+Does Disney own a major comic book publisher?,0.06030029027628803,-0.15343803842382148,-0.5146939368611648,c0_correct
+Does Disney's Alice in Wonderland involve the celebration of a holiday?,0.06493114007257605,-0.044144192161366,0.07107047803885003,c0_wrong_to_correct
+Does Düsseldorf have only a small number of smoggy days each year?,0.08569080304741605,-0.17620240102013385,-0.5325887667109248,c0_correct
+Does Felix Potvin have a position on a dodgeball team?,0.04805736381926973,-0.1192308171573104,-0.4754650730819948,c0_correct
+Does Final Fantasy VI require electricity to play?,0.051139729729818395,-0.04832741389403186,-0.12323617375335372,c0_correct
+Does Hades appear in a Disney Channel musical movie?,0.01992825069134152,-0.04061242941497774,-0.170377123836974,c0_wrong_to_correct
+Does Hades have a loose grip on the Underworld?,0.08988945736806364,-0.17990755638197226,-0.5382429421536816,c0_correct
+Does Hammurabi's Code violate Christians Golden Rule?,0.04179840781916477,-0.02187359192225241,-0.0031378473276983954,c0_wrong_to_correct
+Does Hanuman have some of the same duties as Athena?,0.0404583683773756,0.006238260543467183,0.10889870198395213,c0_wrong_to_correct
+Does Homer Simpson need two hands worth of fingers to count to 5?,0.020620041136807155,0.015279357574881969,0.19152663942175363,c0_wrong_to_correct
+Does Jack Sparrow know any sea shantys?,0.06723950706730397,-0.0886468213728647,-0.2182787818469828,c0_correct
+Does James Watson believe that Africans are inferior to Europeans?,-0.02554424340604511,0.013605836001676475,-0.061404512927002664,c0_wrong_to_wrong
+Does Jerry Seinfeld hang out at the Budweiser Party Deck?,-0.014119188309683284,0.08871433365368622,0.27817762848195604,c0_correct
+Does Julia Roberts lose the prolific acting contest in her family?,0.03992158196967621,-0.009228108513516547,-0.004022687268373959,c0_wrong_to_correct
+Does Kenny G hold the qualifications to be a tax collector?,0.0330627425073553,0.02498798053343418,0.1668643251598706,c0_wrong_to_wrong
+Does Lemon enhance the flavor of milk?,0.018210787429726816,-0.049630767171898044,-0.23515546942344467,c0_correct
+Does Linus Torvalds make money off of DirectX?,0.028860998588252973,-0.053495885628705026,-0.11789145655326527,c0_correct
+Does Lorem ipsum backwards fail to demonstrate alliteration?,0.12420695812065297,-0.13881340074773302,-0.37761030353541636,c0_wrong_to_correct
+Does Ludacris have Greek heritage?,0.04943598602162236,0.011783965144398945,0.06586390028725497,c0_wrong_to_wrong
+Does Ludacris perform classical music?,-0.027550303442006707,0.11781429064914953,0.5398776631135056,c0_correct
+Does Magnus Carlsen enjoy KFC?,0.04783615574990285,-0.12134537749497332,-0.48914320452217686,c0_correct
+Does Mario use mushrooms to run faster?,-0.027048228167635968,0.06595932057329719,0.1660116889538279,c0_wrong_to_correct
+Does Masaharu Morimoto rely on glutamic acid?,-0.057563889334463325,0.0003602200835749192,-0.17732599055667864,c0_correct
+Does Mercury help detect coronavirus?,0.033388757101793676,-0.03763271100238637,-0.016435095454071846,c0_wrong_to_correct
+Does Mercury make for good Slip N Slide material?,-0.05989256449393676,0.06895369407570867,0.23826493104179525,c0_correct
+Does Metallica use Soulseek?,0.07315909231542217,-0.09531349843574699,-0.2928183275672931,c0_correct
+Does New Year's Day always occur on a Wednesday?,-0.03441584037104206,0.030990591469206505,-0.0192350806761451,c0_correct
+Does New York Harbor sit on a craton without volcanic activity?,0.13572307257246574,-0.10493097041073673,-0.028641115994954114,c0_correct
+Does Nicole Kidman despise Roman Josi?,0.01451152955323931,-0.06675704651363885,-0.3021180313312417,c0_correct
+Does Nigella Lawson care about solubility?,0.013467473197859126,0.039206980030062566,0.3088629009506112,c0_wrong_to_correct
+Does Nintendo's link ever see an astronomer?,0.16252298162265655,-0.22659985910344235,-0.6744120737944775,c0_wrong_to_correct
+Does Olympia Washington share name with Hephaestus's workshop location?,0.008648212984565307,-0.029526129805529683,0.05384370901782376,c0_wrong_to_correct
+Does Oprah Winfrey have a degree from an Ivy League university?,0.0906299473408071,-0.12587527246303537,-0.36005798479029005,c0_wrong_to_wrong
+"Does Orange County, California require airplanes to be quiet?",-0.005099787114868359,-0.017156225676963954,-0.09903872238656364,c0_wrong_to_correct
+Does Pantheon in Paris have a unique name?,-0.025630163860655086,0.0018533740696996814,-0.1481082352698999,c0_correct
+Does Paulo Coelho's wife make a living through speech?,0.2032372304710205,-0.2354697349686418,-0.5695440089967254,c0_correct
+Does Post Malone have a fear of needles?,0.12985982910586125,-0.07096044671773943,0.024955004364411115,c0_correct
+Does Princess Peach's dress resemble a peach fruit?,0.0607234657999709,-0.07305259100457151,-0.26224420208532584,c0_correct
+Does Rahul Dravid belong to the family Gryllidae?,0.009317700181513566,-0.025173568685883496,-0.09786095608022083,c0_correct
+Does Ronda Rousey avoid BBQ restaraunts?,0.128279554848436,-0.09031459992396712,-0.1010262415763249,c0_wrong_to_correct
+Does Rupert Murdoch's alma mater have more history than the USA?,0.014175108824411975,-0.0414045261076223,-0.2773738335273067,c0_wrong_to_correct
+Does Rusev have to worry about human overpopulation in his homeland?,0.1132870022138579,-0.18233704100358553,-0.6722836647340135,c0_correct
+Does Santa Claus work during summer?,0.0021199230655090107,0.008782196928032532,0.20992475165601,c0_correct
+Does Siri know geometry?,0.033142855894309764,-0.018521070545981483,-0.13063983989278982,c0_wrong_to_wrong
+Does Snoop Dogg advocate a straight edge lifestyle?,0.05606379154491725,-0.058490965488481705,-0.04565612154959808,c0_correct
+Does Soylent use Pea for their source of protein? ,0.09669614619452171,-0.1926586961036374,-0.6086133834621149,c0_correct
+Does Super Mario protagonist hypothetically not need continuing education classes in Illinois?,0.2135307158007793,-0.22071368504239103,-0.5102358761460559,c0_wrong_to_correct
+Does Super Mario require electricity to play?,0.0018496815546068524,0.010007997743216451,0.1261967931063156,c0_correct
+Does The Doctor keep his ship in his childhood home?,0.035106686479143834,-0.025067799093142162,-0.13667411637748272,c0_correct
+Does The Hague border multiple bodies of water?,0.028774567630377224,-0.04422592663985912,-0.25151031090823384,c0_correct
+Does The Jungle Book contain racist subtext?,-0.06062275476471579,0.035880099177703795,0.1366338519415461,c0_correct
+Does US brand Nice depend on Western honey bee?,0.08428579864767483,-0.10069946760401358,-0.036899843122716214,c0_correct
+Does USA fail separation of church and state in multiple ways?,0.06734505021313897,-0.057846582116205025,-0.04038381034855576,c0_correct
+Does Ukrainian Greek Catholic Church recognize Alexander Nevsky as a saint?,-0.006990363338492678,0.017458939264254972,0.08111443074806335,c0_correct
+Does United Airlines have a perfect operation record?,0.10171738134547936,-0.20076284592571872,-0.6061327509530879,c0_correct
+Does Woody Allen await the Second Coming?,-0.009995929408544879,0.02543475072781573,0.03752988768882304,c0_correct
+Does Zelda Williams have any cousins on her father's side?,0.10342319945128653,-0.13232130648472595,-0.3881222130575551,c0_wrong_to_correct
+Does a Disney princess on Broadway have red hair?,0.1759124916911422,-0.21284532820990135,-0.6103373678894077,c0_wrong_to_correct
+Does a Starbucks passion tea have ginger in it?,0.019961877982056064,-0.049142324099882236,-0.18764048898032182,c0_correct
+Does a Trek 9000 require an anchor in order to park?,0.07209475961716438,-0.14118622871757372,-0.6239769727284824,c0_correct
+Does a game engine have a fuel injector?,-0.013033282761800491,-0.021222667283966934,-0.08529340984032752,c0_correct
+Does a giant green lady stand in New York Harbor?,0.11824937985699302,-0.17868548585704414,-0.2780764067068272,c0_correct
+Does a kangaroo incubate its offspring?,-0.05177789214409334,0.015156798053938436,-0.11240001153368906,c0_correct
+Does a lapidary work with items that are studied by geologists?,0.017501122254271806,0.01032006124913648,0.04682543946478501,c0_wrong_to_correct
+Does a mongoose have natural camouflage for desert?,0.07393251685975633,-0.12928279298893178,-0.39419144064628164,c0_wrong_to_correct
+Does a person need to be a parent to become a grandparent?,-0.009506381972440803,0.08373260345066216,0.310100414516967,c0_wrong_to_wrong
+Does a person using tonsure have hair at the top of their scalp?,0.055066561281340354,-0.06752309552981241,-0.04513288080044975,c0_correct
+Does a sea otter eat spiders?,-0.026055470179341955,0.03043371702806036,0.028030665814642086,c0_correct
+Does acupuncture cause pain in many people?,0.02876433174985038,-0.047287076627687746,-0.153305677291399,c0_correct
+Does an individual oceanographer study many sciences?,0.08724225966114474,-0.04646281488697698,-0.05245894538221785,c0_wrong_to_wrong
+Does autopilot rely on fossil fuels?,-0.07873643850703316,0.1090671172822272,0.19387513795368394,c0_wrong_to_wrong
+Does chlorine inhibit photosynthesis?,0.06614676048035328,-0.16251572681220958,-0.6985136347014306,c0_correct
+Does coding rely on Boolean algebra characters?,0.019240088994866622,0.004668092524951095,0.12058189520212625,c0_correct
+Does conservatism repulse Blaire White?,0.0200221458978046,-0.03074436273265639,-0.10714636423876234,c0_correct
+Does crucifixion violate US eighth amendment?,-0.010124105521301052,0.025998573013594983,0.13380959692764882,c0_correct
+Does giant panda have colors that differ from yin yang?,0.025296977540147148,-0.050542102942977646,-0.015550993072231067,c0_wrong_to_correct
+Does having lip piercings lead to more expensive dental bills?,-0.021775196138902553,0.04017966857664235,0.18063862564752964,c0_wrong_to_correct
+Does highest US Court have enough seats for every Prime Minister of the United Kingdom since 1952?,0.009523441895667895,-0.029017139094180813,-0.1988148779271931,c0_wrong_to_correct
+Does horseradish have a fetlock?,-0.034269030803607325,0.13175191251158003,0.46506162714734334,c0_correct
+Does it seem like the Gorillaz is composed of more members than they have?,0.00047869761147445455,-0.041737885978710365,-0.2569662183873538,c0_correct
+Does meat from cows fed only grass taste more like wild game?,0.17992802849042577,-0.22894765810196477,-0.6459102334001227,c0_wrong_to_correct
+Does menthol make cigarettes less addictive?,0.021858790392460303,-0.008984967240507388,0.11278943099712946,c0_correct
+Does ontology require a scalpel?,0.0028747636429286016,-0.012919714749756478,-0.04347967601161029,c0_correct
+Does open heart surgery finish before entirety of American Ballet Theatre's Swan Lake?,-0.02766961016770564,0.03316416919241234,-0.054794264798784464,c0_wrong_to_correct
+Does parsley sink in milk?,0.054137871830933104,-0.1458367897794014,-0.5672207840689549,c0_correct
+Does rock star Keith Richards play a captain of a boat in a movie?,0.07038421384895754,-0.09092118695415069,-0.3150703705594642,c0_wrong_to_wrong
+Does selling a 2020 Chevrolet Corvette almost pay for a year at Columbia University?,0.08119420160758006,-0.07219989389474071,-0.12297611113252649,c0_wrong_to_correct
+Does someone from Japan need a passport to go to a Nordic country?,0.10516159469509878,-0.18530540449126867,-0.5740711851704398,c0_wrong_to_correct
+Does store bought milk have cream at the top?,0.17888131561258025,-0.20721476040842918,-0.38108092435004515,c0_correct
+Does table tennis use prime numbers?,-0.013770383857187984,0.009382171259172165,0.013421177510202553,c0_wrong_to_correct
+Does taking ukemi halt kinetic energy?,0.008528060545385019,-0.05239655027927864,-0.14729000811721704,c0_correct
+Does the Boy Who Cried Wolf hypothetically have reason to pray to Pan?,0.12341625559890268,-0.13341583149521563,-0.26426693826379943,c0_wrong_to_correct
+Does the Eighth Amendment to the United States Constitution protect freedom of speech?,0.08649410317279527,-0.10370332888196876,-0.12190063676167018,c0_correct
+Does the Pixar film Brave feature Scottish people?,0.15814619469592783,-0.1657170458377646,-0.3886946100899027,c0_wrong_to_correct
+Does the Prime Minister of the United Kingdom have poor job security?,0.02200261933442249,-0.0010950808414477708,0.0066415301408330185,c0_wrong_to_correct
+Does the Red Sea have biblical significance? ,-0.0011392729341890284,-0.03659313413822772,-0.16954082051212505,c0_correct
+Does the Roman god Vulcan have a Greek equivalent?,-0.03605071217334199,-0.005162426587293767,-0.0989715460265943,c0_correct
+Does the Taco Bell kitchen contain cinnamon?,0.055107150093535284,-0.11438776229531261,-0.45583228125582276,c0_wrong_to_correct
+Does the United States Department of Education oversee services benefiting undocumented migrants? ,0.05194297238996781,-0.08214909533037515,-0.2061109665855635,c0_wrong_to_correct
+Does the United States Navy create radioactive waste?,0.044532846940906756,-0.09405912530354088,-0.17065236325059685,c0_correct
+Does the actress who played Elizabeth II speak fluent Arabic?,0.057973479648193105,-0.12694439471125496,-0.5580399930141237,c0_correct
+Does the art from Family Guy look a lot like the art in American Dad?,0.11147276406296946,-0.11583360782267606,-0.2739370677841666,c0_correct
+Does the book Revolutionary Road give a glimpse at life in a suburb?,0.08154731147130378,-0.1022689527204036,-0.28074628041100247,c0_correct
+Does the central processing unit usually have a dedicated fan?,0.14542123248756467,-0.16089795961632097,-0.2971898809379304,c0_correct
+Does the cuisine of Hawaii embrace foods considered gross in the continental US?,-0.0029134257894134485,-0.0027439321480652312,0.02889452552359384,c0_wrong_to_wrong
+Does the history of Europe include the age of dinosaurs?,0.018051585946671334,0.02019077450727147,0.0782564327237778,c0_correct
+Does the human stomach destroy a bee if ingested?,0.029307333573107996,0.04362221710805628,0.1907359212065307,c0_correct
+Does the judo rank system reach the triple digits?,0.05252464268131374,-0.021514421499499475,0.18840485658675943,c0_correct
+Does the land in close proximity to beaver dams suffer?,-0.020430077498104215,0.03285869438999059,0.011074024621337553,c0_wrong_to_correct
+Does the letter B's place in alphabet exceed number of 2008 total lunar eclipses?,0.015654947985952905,-0.06125803807663939,-0.3072934153408633,c0_correct
+Does the name C-SPAN refer to a form of telecommunications that utilizes outer space?,0.05751951810753153,-0.023660389743260013,0.043576300340667506,c0_wrong_to_wrong
+Does the swastika have positive uses?,0.09028579179593343,-0.12320481433774039,-0.36077913798578376,c0_wrong_to_correct
+Does the texture of leaves remain the same independent of their coloring changing?,0.0072881411134309015,0.0627169005231425,0.3764826704124219,c0_correct
+Does the word swastika have meaning in sanskrit?,0.0654709383790345,-0.10825445372141304,-0.3061106389035496,c0_correct
+Does walking across Amazonas put a person's life at risk?,0.10340450006109292,-0.16999240277217142,-0.5990222240843085,c0_correct
+Does water have viscosity?,-0.01981668710619411,-0.008418966365170005,0.027132275207397694,c0_wrong_to_correct
+Does welding with acetylene simulate the temperature of a star?,0.11178155202425955,-0.13705404578040642,-0.30555180860592923,c0_wrong_to_wrong
+"During the pandemic, is door to door advertising considered inconsiderate?",0.09925128832157182,-0.06507065341710186,0.2216082116073953,c0_correct
+"For Hostas to look their best, do they need lots of chlorophyll?",0.10615926566913525,-0.15478669744364892,-0.21232941252259607,c0_correct
+Has Alan Greenspan lived through at least a baker's dozen of president's?,0.006935573961760033,0.017828277959699185,0.2034221859723221,c0_correct
+Has Aretha Franklin ever collaborated with a suicidal person?,-0.011537532667873163,0.000637166708099518,0.15186699515443358,c0_wrong_to_wrong
+Has CNES planted a French flag on the lunar surface?,0.12832564635931065,-0.23450634833297843,-0.7367036093664323,c0_correct
+Has Cesar Millan ever tamed a short-eared dog?,0.00652293239319901,-0.08823567613526073,-0.3658079418197635,c0_correct
+Has Drew Carey outshined Doug Davidson's tenure?,0.054966989743267636,-0.05441234394627223,-0.2681620460671663,c0_correct
+Has Freemasonry been represented on the Moon?,-0.015601878339963626,-0.03444922162839975,-0.02061214612575013,c0_wrong_to_wrong
+Has Gorillaz creator been in more bands than Bernard Sumner?,0.038319604947500974,-0.071476657524844,-0.16399168378902995,c0_wrong_to_correct
+Has Johns Hopkins University always treated subjects ethically?,0.1280755617326207,-0.12985448360287263,-0.3152968372777998,c0_correct
+Has Justin Timberlake ever written a song about Britney Spears?,0.15488831114917723,-0.2336047306814383,-0.5653557242528845,c0_wrong_to_wrong
+Has Kelly Clarkson outsold season 4 American Idol winner?,0.083887978593008,-0.16253769593043024,-0.644837117207023,c0_wrong_to_correct
+Has Nikola Tesla's name inspired multiple brands?,0.11690145272752694,-0.10402347533328504,-0.10813528181008203,c0_correct
+Has Oscar Wilde's most famous character ever been in an Eva Green project?,-0.04297976094893663,0.12061702526750703,0.49332450266850436,c0_wrong_to_correct
+Has Ringo Starr been in a relatively large number of bands?,0.006944737536439871,0.03272431791956995,0.15611698078848146,c0_correct
+Has a tumulus been discovered on Mars?,-0.04365512235601399,0.09500277773077695,0.2956725860824776,c0_correct
+Has cannabis been a big influence in rap music genre?,-0.09454074182171623,0.09837281207430523,0.10237696647597938,c0_correct
+Has every astronaut survived their space journey?,-0.0003942649939813192,0.00037276143918768545,0.12214107753913339,c0_correct
+Has mummification in the Andes been prevented by rainfall?,-0.02895046569482773,0.03681925691458343,0.0688385151685098,c0_wrong_to_correct
+Has numerology helped shape hotel layouts?,0.012626894816836987,-0.003268269233510618,0.006780067480395835,c0_wrong_to_correct
+Has spinach been a source of power in a comic movie?,0.11805505738208999,-0.1529355303410292,-0.4139656923314552,c0_correct
+Has the Holy Grail been featured in at least five films?,-0.023033601280216476,0.0786603187765528,0.1994841731298298,c0_correct
+Has the Indian Ocean garbage patch not completed two full rotations of debris since its discovery?,0.06584836565885022,-0.03044796376993869,0.11187914326049186,c0_wrong_to_correct
+Has the Subway restaurant franchise had any connections with child abusers?,0.13098881507817517,-0.16414467088214105,-0.5305149918989536,c0_wrong_to_correct
+Has type of political association Pompey had with Caesar influenced reality TV?,0.03757684721019361,0.01353331484397352,0.12415619046796567,c0_wrong_to_wrong
+Have Douglas fir been used to fight wars?,0.0984009144976501,-0.0925029506796585,0.017282469699159808,c0_wrong_to_correct
+Have Jamie Lee Curtis been the subject of fake news?,0.09183418241768804,-0.07134137993517622,-0.09955829562736929,c0_wrong_to_correct
+Have jokes killed more people than rats in history?,-0.011906081194483553,0.06937647574420416,0.3508150218368007,c0_correct
+If it socially acceptable to wear an icon depicting crucifixion? ,0.008553985803191444,-0.009320974438302154,-0.05819800960214394,c0_correct
+"If one of your feet is in a leg cast, should the other be in a sandal?",0.009174545868442463,0.03774321861359972,0.303919873487444,c0_correct
+"If you bottle your own milk, would there be cream on top of it?",0.10403367425238663,-0.12948798222305435,-0.25435453827467214,c0_wrong_to_correct
+"If you have black hair and want red hair, do you need bleach?",0.03478688878171943,0.00209345409598663,0.25436695547742594,c0_correct
+"If you were on a diet, would you have to skip lunch at McDonald's?",-0.06462512580207314,0.1604233696207369,0.5829335387235464,c0_correct
+"If you're reducing salt intake, are olives a healthy snack?",-0.05786006572638602,0.11791713642557625,0.45348955550832704,c0_correct
+"If you're running focal fossa, are you using linux?",0.021105297443729576,-0.026657989086364894,-0.08422981629524728,c0_correct
+"If your electric stove has a glass top, should you use cast iron skillets?",0.0859727675436659,-0.18102186037710336,-0.6345820451639099,c0_correct
+"In Doctor Who, did the war doctor get more screen time than his successor?",0.08534961572808641,-0.06091412772252382,0.1070057658496062,c0_correct
+"In Hey Arnold, did any characters stay on a porch all the time?",0.052721824161033215,-0.12088707423758623,-0.5184354667106936,c0_wrong_to_correct
+"In baseball, is a ""Homer"" named after the poet Homer who wrote the Odyssey?",0.027894496755278553,-0.011212982382514836,0.04802258468197662,c0_correct
+"In geometry terms, is the Royal Observatory in Greenwich similar to a yield sign?",0.03325249060557178,0.01655493900557016,0.21189179827478433,c0_correct
+"In most Mennonite homes, would children know of The Powerpuff Girls?",0.1253785258005451,-0.12822862803335544,-0.35636706029640497,c0_correct
+"In order to work in district management, does one need a car?",0.1487616639044851,-0.12662379261254175,-0.24141446200121497,c0_wrong_to_correct
+"In star rating systems, is 5 stars considered good?",0.027179813817341913,-0.11442556333243156,-0.481759107264645,c0_correct
+"In teenagers and young adults with depression, are SSRI medications less safe than they are for adults?",0.05590904421711529,-0.10878974306272576,-0.4475883582972534,c0_wrong_to_correct
+"In the world of Harry Potter, would a snake and skull tattoo be good luck?",-0.05858187874406273,0.07354755334152205,0.2162914892567106,c0_correct
+"Is ""A Tale of Two Cities"" a parody of the Bible?",0.040975650238292305,-0.11806302779056366,-0.5056129834329107,c0_correct
+"Is ""A Tale of Two Cities"" a popular science novel?",0.020135867052378464,-0.06130293863444444,-0.27104696474924006,c0_correct
+"Is Albany, Georgia the most populous US Albany?",0.10073031960995549,-0.1357657125935385,-0.36914310799728933,c0_correct
+Is Alistair Darling in favor of Scottish independence?,-0.04024174091485089,0.0638770198707868,0.24522620598897582,c0_correct
+Is All Purpose Flour safe for someone who has celiac disease?,-0.009779629901992326,0.05671506134010641,0.373997928755206,c0_correct
+Is Anakin Skywalker from Star Wars associated with the color black?,0.06835664722167745,-0.015960062187912294,0.018111501888505632,c0_wrong_to_correct
+Is Antarctica a good location for Groundhog Day?,0.10594838349856839,-0.0738826113973853,-0.11656333670275854,c0_correct
+Is Argon near Neon on the periodic table of elements?,0.03698198733689795,-0.018506679949901947,0.06713398359393041,c0_correct
+Is Autumn a good time to collect bear pelts in US?,0.06051738989940858,-0.06057531129660165,0.04302233433417002,c0_correct
+Is B's place in alphabet same as Prince Harry's birth order?,0.015272346277196536,0.04816463366673995,0.3005159160116182,c0_wrong_to_wrong
+Is Bern located east of Paris?,0.05039230199537126,-0.07122211100557177,-0.12026424296909699,c0_correct
+Is Bill Gates the wealthiest of the Baby Boomers?,0.042141957587333856,-0.05225567223224406,-0.12450098186693548,c0_wrong_to_correct
+Is Britney Spears' breakdown attributed to bipolar disorder?,0.16813915977368898,-0.12016882959676042,0.009860826298683012,c0_wrong_to_correct
+Is Brooklyn known for its bread products?,0.06552165808608978,-0.026469202749737075,0.03325820658447165,c0_wrong_to_wrong
+Is Bucharest located south of Egypt?,-0.1313548424527431,0.1982365302387349,0.561763758328996,c0_wrong_to_wrong
+Is Bugs Bunny known for carrying a root vegetable around with him?,0.08715522141929621,-0.22164534540348133,-0.6709764855043678,c0_wrong_to_correct
+Is CAS number 8009-03-8 harmful for a rash?,0.1529179405968133,-0.20538195372998505,-0.5536074635121427,c0_correct
+Is CEO of Nissan an internationally wanted fugitive?,-0.05362837259914599,0.0665645366445072,0.08142733433274851,c0_wrong_to_wrong
+Is Cambodia too expensive for 2020 richest billionaire to own?,0.1319679714059021,-0.14308224252474314,-0.11014040819143112,c0_correct
+Is Cantonese spoken in Japan?,0.06028752851280028,-0.1284976610169723,-0.5140916889076667,c0_correct
+Is Central Park Zoo located on an island?,-0.01484566743466098,0.019996528593740237,0.0812437278004633,c0_wrong_to_wrong
+Is Chinese successor to Chevrolet Cruze name a town far from Milan?,0.031099279558464588,-0.04247329690137691,-0.2126416006974049,c0_correct
+Is Cholera alive?,-0.11726257242371418,0.09750116615170651,0.09533549294044508,c0_wrong_to_wrong
+Is Christmas always celebrated on a Sunday?,0.06346930753216595,-0.09956849126689472,-0.3176576411485542,c0_correct
+Is Christopher Nolan indebted to Bob Kane?,0.03786239284571424,-0.06531125698659448,-0.2513109761062716,c0_wrong_to_correct
+Is Christopher Walken close to achieving EGOT status?,-0.05167965754350612,0.07473547771110566,0.10514750065384659,c0_correct
+Is Cookie Monster's diet Paleo friendly?,0.063926973645681,-0.08695613170628094,-0.22291595947301168,c0_correct
+Is Disney associated with Los Angeles County?,-0.005127978863190719,-0.04103999846737741,-0.25051926068178687,c0_correct
+Is Disneyland Paris the largest Disney resort?,0.08291206550291574,-0.061511938599875915,-0.12067223193012466,c0_correct
+Is Drew Carey important to the history of wrestling?,-0.08255063651054895,0.11316819188589211,0.2064437098496813,c0_wrong_to_wrong
+Is Dungeons and Dragons a game well suited for solo play?,0.01402241547163463,0.01134821967827744,0.1456027989980575,c0_correct
+Is Earth Day celebrated in summer?,0.024972586589929957,-0.07961849796653075,-0.37594155707704036,c0_correct
+Is Edward Snowden in hiding from the United States?,0.09021043337789703,-0.08039287192557376,-0.012583497341736027,c0_wrong_to_correct
+Is Eid al-Fitr holiday inappropriate to watch entire US Office?,0.09085486994120828,-0.05968075827787536,0.03492720214153966,c0_wrong_to_correct
+Is Eighth Amendment to the United States Constitution popular in court?,0.070786483912197,-0.07931334575483209,-0.24006933711035283,c0_correct
+Is Fiat Chrysler associated with Japanese cars?,0.0472853806872654,-0.07350322492087193,-0.24969671408162808,c0_correct
+Is Fiat Chrysler gaining a new overall corporate identity?,-0.0020248260672189877,-0.0006271905220799623,0.013276339241785173,c0_wrong_to_correct
+Is Ganymede in the Milky Way galaxy?,0.006522245718128317,-0.028227783606581874,-0.12337781365717193,c0_correct
+Is Garfield known for hating italian cuisine?,0.10329116621134449,-0.09646180639636819,-0.16647426288724065,c0_correct
+Is Glenn Beck known for his mild temper?,0.043336421122205926,-0.03055432232326971,-0.02387485662175548,c0_correct
+Is Glycol something United Airlines would buy?,0.16894418537953748,-0.21164365830014056,-0.5205007935638064,c0_wrong_to_correct
+Is Hanuman associated with a Norse god?,-0.0071067161102165155,0.0190161452575988,0.07148354775995136,c0_correct
+Is Hermes equivalent to the Roman god Vulcan?,0.052405805855867404,-0.08657837902564183,-0.28976864473783426,c0_correct
+Is Hermione Granger eligible for the Order of the British Empire?,0.1198773160035429,-0.18393941370743974,-0.5482706932889471,c0_correct
+Is Home Depot a one stop shop for crucifixion supplies?,-0.06149387514372229,0.16288398803801502,0.7571003096348125,c0_wrong_to_correct
+Is ID required to get all medications from all pharmacies?,-0.09171265679540797,0.16237939899889037,0.5265377919518521,c0_correct
+Is Isaac Newton buried at the same church as the author of Great Expectations?,0.0161798633924245,0.035851837052446864,0.274524451820245,c0_wrong_to_correct
+Is Issac Newton often associated with a red fruit?,0.022075388475741198,-0.0496387811014839,-0.01922751935456224,c0_correct
+Is Jack Black unlikely to compete with Bear McCreary for an award?,-0.10823190745665012,0.16008667071758972,0.4555359098024351,c0_correct
+Is Jennifer Lawrence's middle name similar to the name of a Scorsese collaborator?,-0.001613982279639603,-0.022464642287384012,-0.1700454701866242,c0_wrong_to_wrong
+Is Kim Kardashian a guru?,0.03286871543390735,-0.0033090361977286264,0.08301615206172974,c0_correct
+Is Kobe's famous animal product used in a BLT?,0.03699704708869467,-0.06856515149498155,-0.32291086321595364,c0_correct
+Is Krishna similar to Holy Spirit?,0.01948747258229111,-0.004191063894379954,0.08569433869928855,c0_wrong_to_wrong
+Is LG Electronics located in a city with an official bird that has a purplish/blue tail?,0.02731024974086249,-0.05683027061443633,-0.2014470691692407,c0_wrong_to_correct
+Is Lord Voldemort associated with a staff member of Durmstrang?,0.015831840829076294,-0.06466434365308531,-0.3949479936190323,c0_wrong_to_wrong
+Is Ludacris in same music genre as 2000's Binaural?,0.04690057885224452,-0.04543609590629058,-0.15840090728782596,c0_correct
+Is MF Doom a Fantastic Four villain?,-0.04797945677466964,0.11984536904141257,0.5175400059215511,c0_correct
+Is MIX a word and a roman numeral?,-0.0056553111830141,0.02440939714994174,0.015562360488498683,c0_correct
+Is Mark Cuban able to visit Northern Mariana Islands without a passport?,0.018797265290000476,-0.00891475538262873,0.038337618947185015,c0_wrong_to_wrong
+Is Menthol associated with Thanksgiving?,0.02907678915296552,-0.06272516655482623,-0.20910117714157583,c0_correct
+Is Metallica protective over their music?,0.07685074883962495,-0.07477841170038325,-0.022543389945220205,c0_correct
+Is Michael Vick on People for the Ethical Treatment of Animals's hypothetical blacklist?,0.06327609214217833,-0.0565771237802315,-0.10972185372603138,c0_wrong_to_correct
+Is Michael an unpopular name in the United States?,0.05356760784810177,-0.046654706989404035,0.043908267899117503,c0_correct
+Is Morocco an ideal location for water skiing?,0.13094937129294437,-0.08384370642411446,-0.08676131039127521,c0_correct
+Is Mozambique Drill an easy shot for United States Army Ranger?,0.14126140537973397,-0.12098399368751786,-0.20363102974439096,c0_wrong_to_wrong
+Is Newspeak considered very straightforward?,0.046517968126419396,0.009571249499574802,0.01351564923824533,c0_correct
+Is Newt Gingrich's nickname a type of Reptile?,0.0252810294471979,-0.04343604259783068,-0.18734495492342162,c0_correct
+Is Nine Inch Nails a good guest for students in earliest grade to take Iowa tests?,-0.02299601703751286,0.0423015135350773,0.05728007561195847,c0_correct
+Is Nine Inch Nails's lead singer associated with David Lynch?,0.11962880863728609,-0.24657070919841878,-0.7781312694745892,c0_correct
+Is Noah's Ark an upgrade for Golden Age of Piracy pirates?,-0.11356499713951973,0.16415526935946817,0.3901265765455907,c0_wrong_to_correct
+Is Norman Oklahoma named after a viking?,0.0357727372042137,-0.06640072240993763,-0.33760840610901377,c0_correct
+Is November a bad time for a photographer to take pictures of a plum tree in bloom?,-0.049367756839309385,0.036607214347877726,0.043928485388817995,c0_wrong_to_correct
+Is Olivia Newton-John hyphenated celebrity name with most letters?,0.11226965671539268,-0.19215501752347708,-0.4903451468776564,c0_correct
+"Is Olympia, Washington part of ""Ish river country""?",0.1525981900772907,-0.19133206752369525,-0.5643767333221186,c0_correct
+Is Pan a symbol of virtue and virginity in women?,0.05499505501851454,-0.08431576239925259,-0.158592256684721,c0_correct
+Is Pearl Harbor the mythical home of a shark goddess?,0.044351835768304926,-0.09097579313744676,-0.33508965369539356,c0_wrong_to_correct
+Is Phobos (moon) name origin similar to Roman god Pavor?,0.06236337713992646,-0.03363044301498505,0.09489579117643843,c0_wrong_to_wrong
+Is Pig Latin related to real Latin?,0.06385010869710639,-0.10704361019073899,-0.3915430086237318,c0_correct
+Is Rand Paul guilty of catch-phrase used to attack John Kerry in 2004?,0.05039880737625846,-0.028651453671604987,0.10958924864703778,c0_wrong_to_wrong
+Is Rick and Morty considered an anime?,0.02775938373753506,-0.040470200105221746,-0.11363891841474905,c0_correct
+Is RoboCop director from same country as Gaite Jansen?,0.06409182551809456,-0.03532445700594286,-0.07691125455677139,c0_wrong_to_wrong
+Is Route 66 generally unknown to Americans?,0.00034786641119655126,-0.030187626931497513,-0.09637257308945535,c0_correct
+Is Samsung accountable to shareholders?,0.09050106697897087,-0.19312609939232625,-0.6815118653975034,c0_correct
+Is San Diego County the home of a Shamu?,0.04405949480608806,-0.07229667942810535,-0.16334814056963365,c0_correct
+Is Saturn named after king of gods in Greek mythology?,-0.0452060590019191,0.08377053407004056,0.3207412974385031,c0_correct
+Is Shakespeare famous because of the infinitive form?,-0.05214433753645975,0.07148335708118667,0.13836804138793457,c0_wrong_to_wrong
+Is SnapCap an example of a retail store?,0.11363482913459755,-0.1780882170083799,-0.4601468790227251,c0_correct
+Is Snow White an example of good consent?,0.010934465819533612,-0.0017643021152139449,0.0965402727201422,c0_correct
+Is Steve Carell's character on The Office portrayed as one with tremendous leadership skills?,0.11089928913047231,-0.08731172798790032,0.03773137069251642,c0_correct
+Is Supreme Court of the United States analogous to High Courts of Justice of Spain?,0.06440418993937136,-0.0616743282715157,-0.04170052669490598,c0_correct
+Is Thanksgiving sometimes considered a day of mourning?,0.12799664143865652,-0.1628486909126326,-0.3447176613092445,c0_correct
+Is The Joy of Painting TV show still producing new episodes?,0.23671667004302765,-0.30249528985957613,-0.7587896495684366,c0_correct
+Is Tony Bennett's middle name shared by a former UFC champion?,0.0445168287960378,-0.09792471308333232,-0.3146101552907856,c0_wrong_to_correct
+Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?,0.06930527458805158,-0.05166416335550217,-0.07348414295823857,c0_wrong_to_correct
+Is a Cassowary safer pet than a crane?,-0.002548386832330496,0.00540683623993185,0.05818587118323337,c0_correct
+Is a Coca plant farm likely to be found in Yakutsk?,0.08003113112455917,-0.11468871218953808,-0.27342351298417356,c0_correct
+Is a bengal fox likely to see the Superbowl?,-0.0008181867287466726,0.03664214083691686,0.10143872380468233,c0_correct
+Is a construction worker required to build a portfolio?,-0.014999042204565938,0.09091268949315551,0.3881847905684598,c0_correct
+Is a cory catfish likely to eat another living fish?,0.03546484694527263,-0.05202256075386984,-0.057954699589265024,c0_correct
+Is a curling iron necessary in curling?,-0.011134157523105093,0.01966751147341124,0.13107581319016026,c0_correct
+Is a doctorate required to teach at a SUNY School?,0.06630535474695798,-0.12216797264678232,-0.4085408769197747,c0_correct
+Is a jellyfish safe from atherosclerosis?,0.012179148852058952,0.028388317501359672,0.09506149382662177,c0_correct
+Is a krabby patty similar to a cheeseburger?,-0.03705125814492227,0.11529398375682577,0.5907596254405637,c0_correct
+Is a platypus immune from cholera?,0.12001607295351635,-0.1052147785138089,0.0485559332257931,c0_wrong_to_correct
+Is a pottery kiln inappropriate for use with glass blowing?,-0.10960842985802988,0.12028915324559818,0.31627509843778434,c0_wrong_to_correct
+Is a railroad engineer needed during NASCAR events?,0.0052076944692667215,0.019008811718933066,0.127914895499467,c0_correct
+Is a spice grinder ueseless for the cheapest cinnamon sticks?,0.10271465966836313,-0.15482981111949778,-0.5912895791022633,c0_wrong_to_correct
+Is a watchmaker likely to be able to fix an Apple Watch?,-0.0029042558604592816,-0.06361845976577649,-0.2591855067052057,c0_wrong_to_correct
+Is accountant a difficult profession for a person suffering from Dyscalculia?,-0.11407397660874219,0.12656086360260438,0.21962686464949854,c0_wrong_to_correct
+Is an ammonia fighting cleaner good for pet owners?,0.05975892135513561,-0.066069963044252,-0.12027922896397536,c0_correct
+Is an espresso likely to assuage fear?,-0.07191814860432033,0.08738019009599654,0.2554535359776613,c0_correct
+Is an internet connection essential for someone using Chrome OS?,0.11392830510276286,-0.11761479686414299,-0.38985490296933745,c0_wrong_to_correct
+Is average number of peas in a pod enough commas for a billion?,0.09433826175473303,-0.06178992787097043,0.1934554177199016,c0_wrong_to_correct
+Is basil safe from Hypervitaminosis D?,0.029744720658516965,-0.03488523300417419,-0.10664912449897601,c0_correct
+Is breakdancing safe for people with tendonitis?,-0.004627975078377422,0.018386595559221286,0.05570261224460271,c0_correct
+Is breast cancer associated with a ribbon?,0.012885804987375238,0.010509599908407732,0.017758307064742018,c0_correct
+Is capsaicin associated with cooking?,0.01837041716137111,-0.025435190549799563,-0.12074123892677957,c0_correct
+Is capturing giant squid in natural habitat impossible with no gear?,0.1454886739580109,-0.17416416854432,-0.43906000946466206,c0_wrong_to_correct
+Is chaff produced by hydropower?,-0.00743962412372956,-0.030310688521963197,-0.24407744783621155,c0_wrong_to_correct
+Is clementine pith highly sought after?,0.06873251023969928,-0.13340427078092582,-0.4186272585537585,c0_correct
+Is coal needed to practice parachuting?,0.13051503634556894,-0.15243820941616384,-0.35016775034943726,c0_wrong_to_wrong
+Is cow methane safer for environment than cars?,0.0516383010862298,-0.024693313733526068,0.09879336114175485,c0_correct
+Is cycling a high-risk activity for pelvis fractures?,0.18098227376337306,-0.15451120667323942,-0.21817886693596644,c0_correct
+Is dyslexia the most common intellectual disability in US?,0.012462391752589341,0.006133073563011265,0.19761606880156757,c0_correct
+Is eating a Dicopomorpha echmepterygis size Uranium pellet fatal?,0.011277471753895485,-0.06030086736952034,-0.2963048145116728,c0_correct
+Is electricity necessary to balance an account in Microsoft Excel?,0.1481988898276726,-0.11033518507598819,-0.24422443548569095,c0_wrong_to_correct
+Is entire Common Era minuscule to lifespan of some trees?,0.041083258046631155,-0.038670490013441,0.019970430459054445,c0_correct
+Is greed the most prevalent of the Seven Deadly Sins?,0.0903932346411962,-0.09889624228011229,-0.16837915586403807,c0_correct
+Is groundhog day used as a global season indicator? ,0.009466385037398828,-0.0035866065494568333,-0.10775961783908439,c0_correct
+Is growing seedless cucumber good for a gardener with entomophobia?,0.036699598686370405,-0.0780065915417415,-0.2994070358376191,c0_wrong_to_correct
+Is hanging a viable execution method on a ship at sea?,0.01916064504105075,0.0187673804156695,-0.11560365500308434,c0_wrong_to_correct
+Is honey associated with queens?,0.13013842868101977,-0.13855024447115222,-0.27166732977726704,c0_wrong_to_correct
+Is it comfortable to wear sandals outside Esperanza Base?,0.0022047510845383256,-0.0181072850761628,-0.11641024703988279,c0_correct
+Is it common for women to have moustaches?,0.1412113079521793,-0.08795931171800164,0.07662710837550313,c0_correct
+Is it common to see frost during some college commencements?,0.0843994733468556,-0.05451628763815358,-0.08058834045150332,c0_wrong_to_correct
+Is it dangerous to consume chlorine when mixed with sodium?,0.049681271090876944,-0.06380442293412505,-0.17044490842767823,c0_wrong_to_correct
+Is it hard for Rahul Dravid to order food at a restaurant in Aurangabad?,-0.019678824132817296,0.08036938113169995,0.293938703637422,c0_correct
+Is it impossible for Cheb Mami to win a Pulitzer Prize for musical composition?,0.09227519057384437,-0.09127577982614121,-0.330970787422308,c0_wrong_to_correct
+Is it normal for people to sing when the YMCA is mentioned?,0.05041228348039095,-0.010624900248786817,0.0851867603260198,c0_correct
+Is it normal to blow out candles during a funeral?,-0.00225461612493727,0.04214940448657764,0.10754362579984544,c0_correct
+Is it normal to find parsley in multiple sections of the grocery store?,-0.008972860429241059,-0.01310896765410921,-0.05461769970442665,c0_wrong_to_correct
+Is it normal to see a red panda in Shanghai outside of a zoo?,-3.4391981189374476e-05,-0.009619220817121271,-0.028176812946176688,c0_correct
+Is it possible that June got its name from mythology?,0.0698457035331207,-0.0654419653486511,-0.15094448275905925,c0_correct
+Is it safe to eat kidney?,0.10871706012771876,-0.18929861046242022,-0.5545195356782988,c0_correct
+Is it safe to share silverware with an HIV positive person?,-0.006141476184125638,0.07841189519296084,0.42828532658089846,c0_wrong_to_correct
+Is it safe to wear sandals in snow?,-0.038128132571705886,0.07009107541709522,0.3190624175524831,c0_correct
+Is it true that gay male couples cannot naturally reproduce?,-0.02002382009471526,0.05918201222953523,0.024402021792822137,c0_correct
+Is it unusual to eat spaghetti without a fork?,0.08873810379848202,-0.16295712825611774,-0.5606449421407287,c0_wrong_to_wrong
+Is it unusual to play Happy hardcore music at a funeral?,0.01677421591455741,0.01628401265607285,0.24216561442762607,c0_wrong_to_correct
+Is jalapeno heat outclassed by Bhut jolokia?,-0.01641953109159522,0.0823758483481546,0.2614292263632665,c0_correct
+Is latitude required to determine the coordinates of an area?,0.08483128610705704,-0.13189415654867875,-0.3412870559376492,c0_correct
+Is letter C crucial to spelling the two most common words in English language?,0.04905076171954659,-0.0267712587064817,0.21225821151517432,c0_correct
+Is lunch on the beach a good activity to spot the full circle of a rainbow?,0.04685474934500422,-0.03599003211173976,-0.031047437612019113,c0_correct
+Is material from an aloe plant sometimes enclosed in petroleum-derived products?,0.05453324570250373,-0.0608177149088619,-0.19637793040084928,c0_correct
+Is menthol associated with Christmas?,-0.027545659947846746,0.0197480757454479,0.03783239734367316,c0_wrong_to_wrong
+Is metal a type of folk music?,-0.12447713861340448,0.191739950603438,0.6716745670557466,c0_correct
+Is most coffee produced South of the Equator?,0.11212917613295825,-0.08446945843178344,-0.10782046406485324,c0_correct
+Is most store bought rice pudding made with brown rice?,0.02028407735576465,-0.09603740078625145,-0.42058601649639016,c0_correct
+Is myocardial infarction a brain problem?,0.053259468827060896,-0.13967570835826093,-0.5451508502454921,c0_correct
+Is nickel a better payout than mercury if given a dollar per atomic number?,0.01838494915686717,-0.07613096424423521,-0.27017823081877457,c0_correct
+Is nickel dominant material in US 2020 nickels?,0.07623912613665529,-0.18588788176099796,-0.6292425000727049,c0_wrong_to_correct
+Is number of different US President's in 1800s a lucky number in Hong Kong?,-0.021873805938307345,0.019226621288903345,0.08318067489125724,c0_correct
+Is number of stars in Milky Way at least ten times earth's population?,0.03487165457116281,-0.03400493655918241,-0.0984827622331449,c0_correct
+Is overfeeding Lactobacillus unwise for people without dental insurance?,0.050038001216389905,-0.02102553371402552,0.20244734029857003,c0_wrong_to_correct
+Is pi in excess of square root of 5?,-0.00017324472072310915,0.06890808116554958,0.559139051748574,c0_correct
+Is pickled cucumber ever red?,0.040736847872910764,-0.02242452985364246,0.023572105031176127,c0_wrong_to_correct
+Is pig meat considered inedible within the cuisine of Hawaii?,0.04227038778889369,-0.06791677599063686,-0.20520580698990976,c0_correct
+Is popular science used to peer review papers?,0.056608089091141456,-0.06192726932570712,-0.15320107071783962,c0_correct
+Is radioactive waste a plot device for many shows?,0.19782052326516997,-0.1563609465184079,-0.2930100720858104,c0_wrong_to_correct
+Is retail a job anybody can be suited for?,0.08858633164091012,-0.08507604248694808,-0.10736667899124319,c0_correct
+Is shoe soup innocuous?,0.06755210914497678,-0.04730682038669286,-0.03913017814247921,c0_wrong_to_correct
+Is shrimp prevalent in Ethiopian cuisine?,-0.02215563893048833,0.020130146980510646,0.05138473924564857,c0_correct
+Is shrimp scampi definitely free of plastic?,0.0694538047574601,-0.14147526760169718,-0.43941953711000614,c0_correct
+Is slitting your wrists an unreliable suicide method?,0.06653672941036326,-0.055320423156803036,-0.11463876423252206,c0_correct
+Is snoring a sign of good breathing while sleeping?,0.03497816759282957,-0.06563767643947596,-0.18594909154238715,c0_correct
+Is sunscreen unhelpful for the condition that killed Bob Marley?,0.020484077708252224,-0.032633148039781595,-0.15363475518946634,c0_wrong_to_wrong
+Is the Asian black bear multicolored?,0.11260377536463695,-0.1385254182547857,-0.17106677451264374,c0_correct
+Is the Berlin University of the Arts a Baroque period relic?,0.004793819485405693,0.00011751026725451141,-0.024362625242048463,c0_wrong_to_wrong
+Is the Federal Reserve a quick walk from Space Needle?,0.06436725073277927,-0.030067590906685787,0.07669061771688646,c0_correct
+Is the Flying Spaghetti Monster part of an ancient pantheon?,0.06306187256480789,-0.11376573679680838,-0.3262371745175685,c0_correct
+Is the Forbidden City host to a wooden rollercoaster?,0.06173111737516035,-0.09544618141460144,-0.2569354780585582,c0_correct
+Is the Foreign and Commonwealth Office a European political agency?,0.13324178044206547,-0.17249680414738894,-0.5040653215904012,c0_wrong_to_wrong
+Is the Gujarati script the same category of script as Kanji?,0.0316278475715599,-0.11832868747807335,-0.5701097645072519,c0_correct
+Is the Holy Land important to Eastern religions?,-0.03619323800217511,0.045181675327389315,0.13221384452257146,c0_correct
+Is the Illuminati card game still popular?,0.16099583780916393,-0.222552500584723,-0.6594358395918607,c0_correct
+Is the Jurassic era a tourist destination?,0.09247723287027065,-0.06617287221356044,0.026716173051129277,c0_correct
+Is the Liberty Bell still in its original location?,0.06315799727337446,-0.12373528585125823,-0.45506628005857874,c0_correct
+Is the Matrix a standalone movie?,-0.019537877506648926,-0.021604918825365915,-0.3053673622124813,c0_correct
+Is the Mona Lisa based on a real person?,-0.04752110073667648,0.033605355788225724,0.058109507629714785,c0_correct
+Is the Riksdag a political entity in Scandinavia?,-0.0016249156611877202,0.0363348545911029,0.21334339185515006,c0_correct
+Is the Sea of Japan landlocked within Japan?,0.029623582972087892,0.02200485352845069,0.2530041415029126,c0_correct
+Is the US Secretary of State similar to an administrative secretary of an office?,-0.0033740610907960766,0.02828373218250968,0.12704461307859605,c0_correct
+Is the United States Capitol located near the White House?,-0.08711939049710737,0.12197558442036543,0.18133810080582313,c0_correct
+Is the United States the largest exporter of Fair Trade products?,0.02189037127496629,0.01298273324428087,0.3173401264691038,c0_correct
+Is the Very Large Telescope the most productive telescope in the world?,0.10781244012886915,-0.0899570108724187,-0.1791504699540183,c0_correct
+Is the Yellow Pages the fastest way to find a phone number?,0.02344870785626707,-0.01365730367791479,0.15211384282820117,c0_correct
+Is the average bulk carrier ideal for transporting bromine at room temperature?,-0.033950977786254555,0.05439471087300525,0.2901343457676002,c0_correct
+Is the best tasting part of the papaya in the center?,0.150161493716104,-0.19998383259549202,-0.5760694670234071,c0_correct
+Is the bull shark more bull than shark?,-0.08582693812074838,0.07142313670869757,0.1566185135493665,c0_correct
+Is the current Chief Justice of the United States forbidden from buying alcohol?,0.017553809616822846,-0.020625316000498967,-0.12345863590370842,c0_correct
+Is the kayak a traditional boat in New Zealand?,-0.05973449355930904,0.11670596258890892,0.3249386824392446,c0_correct
+Is the language used in Saint Vincent and the Grenadines rooted in English?,0.020741093242344744,0.002717472089600881,0.06803392735439273,c0_correct
+Is the largest city in New Mexico also known as Yootó?,-0.018760413141810317,0.05474611633819401,0.2098731446976636,c0_correct
+Is the most expensive color in the world Blue?,0.07474220399886844,-0.10127250096893507,-0.272126388254892,c0_wrong_to_wrong
+Is the most recent Democrat President in the US known for his painting practice?,-0.09412397461242117,0.15666791731519414,0.4859659055363722,c0_correct
+Is the name of a mythical creature also the name of a Small Solar System body?,0.04063064184034859,-0.008027279343816557,0.12943585318798734,c0_correct
+Is the referee at a soccer match highly visible against the field?,0.0283164625386646,-0.005715293483232908,0.04127753903907627,c0_correct
+Is the rise of agriculture attributed to rivers?,-0.02021855439894993,0.057949010707062876,0.13808098430274507,c0_correct
+Is the saltwater crocodile less endangered than the European otter?,-0.006595241611615732,-0.02352705252222062,-0.32523574237435915,c0_correct
+Is the skull formed as one whole bone?,0.07778842528849406,-0.12833204477632315,-0.36038574452375194,c0_correct
+Is the span in C-SPAN named after Alan Greenspan?,0.11188479117558747,-0.1251599377231487,-0.23392217511618307,c0_correct
+Is the tibia required for floor exercises?,0.12764194652466998,-0.12072556221892963,-0.16862554218246928,c0_wrong_to_correct
+Is the title of Shirley Bassey's 1971 diamond song a true statement?,0.04203095968435511,-0.0679603302556697,-0.03605933674297812,c0_correct
+Is the tongue part of a creature's head?,0.09216471508299617,-0.1625596713606609,-0.48302232312262117,c0_correct
+Is the tree species that the name Leipzig refers to an evergeen tree?,-0.005416252017020562,0.03367902285533225,0.2149956059839162,c0_correct
+Is the voice of the Genie from Disney's Aladdin still alive?,0.024945751281566064,-0.07472460368618954,-0.35911201496692247,c0_correct
+Is there a Harry Potter character named after Florence?,0.15007577455911025,-0.12516307227301054,-0.3376579113170777,c0_wrong_to_correct
+Is there a Marvel villain with the same name as a kind of citrus fruit?,0.0449437770523996,-0.07535380374389455,-0.18004235985971417,c0_correct
+Is there a Yeti associated with Disney theme parks?,0.1666546630311777,-0.1535132347786538,-0.25055312525919515,c0_wrong_to_correct
+"Is there a jukebox musical about a sweet transvestite from Transexual, Transylvania?",-0.03239058661540395,0.010940952776180513,0.1561986894140016,c0_wrong_to_correct
+Is there a popular Disney character made from living ice?,0.05321098994236961,-0.1069966503660663,-0.27788273958727283,c0_correct
+Is there a warthog on Broadway?,0.09133960503065885,-0.1245751797052579,-0.271678896336344,c0_wrong_to_correct
+Is there historic graffiti on Alcatraz?,0.0176245318352648,0.015213641955494836,0.022094421108267648,c0_correct
+Is there radiation where Nikola Tesla once worked?,0.03197723017531273,-0.032648546031276565,-0.004272901996023926,c0_correct
+Is tobacco use made to seem enjoyable in Alice's Adventures in Wonderland?,0.13289723086292482,-0.045529445394332096,0.024157876815190993,c0_wrong_to_correct
+Is unanimously elected president's birthday a break for mail carriers?,0.12604271564668101,-0.08615254769627778,0.005361714847337384,c0_wrong_to_wrong
+Is viscosity unimportant in making jello shots?,0.00020922605901863012,-0.0728917647427908,-0.18599511186573336,c0_correct
+Is waltz less injurious than slam dance?,0.04774309323783288,-0.07407569910389013,-0.3167981961324783,c0_correct
+Is watching  Star Wars necessary to know who Darth Vader is?,0.01846156224600448,-0.02794001275984906,-0.009854210771427785,c0_correct
+Is watermelon safe for people with a tricarboxylic acid allergy?,0.06033125211487167,-0.1732372397402543,-0.7168485097036226,c0_wrong_to_correct
+Is week old chlorine water safe to drink?,0.1686667490686039,-0.16205257100029494,-0.41584779017264306,c0_wrong_to_correct
+Is white light the absence of color?,0.050086111980682135,-0.10188263908004005,-0.381135944324021,c0_correct
+Is xenophobia hypothetically unimportant between Saladin and Ali Askari?,0.07715854213503337,-0.07021334333592652,-0.19902703697572754,c0_wrong_to_wrong
+Is zoology unconcerned with strigoi?,-0.04358786849087981,0.05851497411764721,0.15968094280740663,c0_wrong_to_correct
+Karachi was a part of Alexander the Great's success?,0.035425154442201956,-0.04121740745550699,-0.08619157914703224,c0_wrong_to_correct
+NATO doesn't recognize double triangle flag countries?,0.043536386635408264,0.0012575545473328675,0.34311250439757013,c0_wrong_to_correct
+"On August 20, 2020,  does The Tonight Show Starring Jimmy Fallon air after moonset EST?",0.05408974702335345,-0.06423144835142806,-0.020451653604021125,c0_wrong_to_correct
+Paleography hypothetically helps to understand Cthulhu?,0.06532949139371858,-0.11105431176971815,-0.32917171995638905,c0_wrong_to_correct
+Should Peter Griffin be an expert at the craft of brewing?,0.03547035043423852,0.004498542504996927,-0.01878445842337151,c0_wrong_to_correct
+Should a finished website have lorem ipsum paragraphs?,0.0828760182014755,-0.1486169227199623,-0.3930126531131095,c0_correct
+Should cactus soil always be damp?,-0.05071277183857248,0.0921308815418856,0.30554016878740586,c0_correct
+Should oysters be avoided by people with ADHD?,0.031646392873902696,-0.009852197102835802,0.10784168461595733,c0_correct
+Should spaghetti be slick when cooked?,0.08204782964761392,-0.10341224827261805,-0.2553358934794485,c0_correct
+Should wool be hand washed only?,-0.01329008210646243,0.04414221310061378,0.19454974323959195,c0_wrong_to_wrong
+Should you ask a neighbor for candy on New Year's Eve?,0.01718390584921703,0.027784763323332046,0.10607524197559837,c0_correct
+Should you be skeptical of a 21 year old claiming to have a doctorate?,0.048709181308589033,-0.07853600370608596,-0.2227717802242064,c0_wrong_to_correct
+Should you wrap a gift for a mother of a stillborn in stork wrapping paper?,0.0014664376756279296,-0.0017802814361773667,0.02968762030074068,c0_correct
+Snowboarding is a rarity in Hilo?,-0.016903313729833225,-0.027909557572921212,-0.1639997046837307,c0_wrong_to_correct
+Walt Disney dominated his amusement park peers at Academy Awards?,0.0022291998033302507,-0.01777638089743616,-0.15480724297207527,c0_wrong_to_wrong
+Was  Godfrey of Bouillon an Islamaphobe?,-0.0324703032058169,0.00153388989184583,-0.07069789803043958,c0_wrong_to_wrong
+Was 1941 Operation Barbarossa related to The Crusades?,-0.012233188683598795,-0.004548180969291382,0.2325615172370673,c0_wrong_to_wrong
+Was 847 Pope Leo same iteration of his name as Ivan the Terrible?,-0.025797512556028024,0.038204267862936264,0.18543095819441469,c0_wrong_to_wrong
+Was Achilles a direct descendent of Gaia?,-0.07083756435332533,0.09504746655390156,0.2800937273405797,c0_wrong_to_wrong
+Was Al-Farabi a student of the Great Sheikh?,0.02388980190139256,0.013905248124405217,0.13500299268300475,c0_correct
+Was Amy Winehouse a fan of Star Wars: Rogue One?,0.05902682423746841,-0.09464231119461779,-0.28392275008899504,c0_correct
+Was Ariana Grande inspired by Imogen Heap?,-0.027266111502664003,0.09723188992731306,0.40406316555015787,c0_correct
+Was Aristotle a member of the House of Lords?,0.07267188813216985,-0.025649266184358227,-0.1359799347318058,c0_correct
+Was Bruce Lee absent from the 1964 University of Washington graduation ceremony?,0.10208581167595132,-0.1575066633102451,-0.443389434945184,c0_correct
+Was Charlemagne's father instrumental in outcome of the Battle of Tours?,-0.05809542673681811,0.12347426266425032,0.5304301095747115,c0_correct
+Was Charles Manson's body unwanted?,-0.05919930434670262,0.13345024704433692,0.4194398848082391,c0_correct
+Was Dioskourides a lapidary?,0.0398136369563592,-0.04769327757875119,-0.1140644372713927,c0_correct
+Was Donald Trump the target of Islamophobia?,0.024938540447826063,0.03216269833140714,0.24640254990437316,c0_wrong_to_correct
+Was Edward II crucial to England's victory at Battle of Falkirk?,0.12685305691594506,-0.07024435278642674,-0.05522684240333442,c0_correct
+Was Elizabeth II the Queen during the Persian Gulf War?,0.07125178754030681,-0.16907702570937289,-0.6693307093626886,c0_correct
+Was Elmo an original muppet character on Sesame Street?,0.046232613653181764,-0.05330784406738476,-0.1071763974698906,c0_correct
+Was England directly involved in the Arab-Israeli conflict?,0.022200089488030095,-0.052360771516364896,-0.28370239580162515,c0_wrong_to_correct
+Was Florence a Theocracy during Italian Renaissance?,0.023189934673271684,-0.09103999450591524,-0.2939862376613308,c0_wrong_to_wrong
+Was Great Recession the period of severest unemployment?,0.03519953005245435,-0.009054844985968175,0.08305887058968575,c0_correct
+Was Harry Potter a better investment than The Matrix for Warner Bros.?,0.03176343096704237,-0.008126986356566251,0.2321477222790943,c0_correct
+Was Harry Potter and the Philosopher's Stone popular during the great depression?,0.05025974714605441,-0.09163377702200047,-0.39699084561039066,c0_correct
+Was Hundred Years' War a misnomer?,0.007323009269027403,0.0011158482413325677,-0.053978872808875145,c0_correct
+Was Iggy Pop named after his father?,0.10522087122350277,-0.15477065223952702,-0.5137135529497947,c0_wrong_to_wrong
+Was Jackson Pollock straight edge?,-0.022651797528032036,0.07715150029920584,0.4136888868412373,c0_correct
+Was Jean Valjean imprisoned due to hunger?,-0.014755856157839475,0.051358605119799644,0.2113376346842588,c0_wrong_to_correct
+Was John Lennon known to be a good friend to Sasha Obama?,-0.0655697291805325,0.06897061447813105,0.15697873321943945,c0_correct
+Was Kane (wrestler) banned from WCW  headquarters city?,0.026474144758667717,-0.02607305604604762,-0.07244611172045845,c0_correct
+Was King Kong (2005 film) the lead actress's biggest box office role?,0.04553322444136232,-0.012328834873824829,-0.02287753593601405,c0_wrong_to_correct
+Was King Kong climbing at a higher altitude than Eiffel Tower visitors?,0.040197723347092706,-0.1178793236797856,-0.49591310034616054,c0_correct
+Was Krishna skilled at using the bow?,0.15505568481881704,-0.10790022792917872,0.1412718456031128,c0_correct
+Was Lorenzo de Medici's patronage of Da Vinci exclusive?,-0.023913825862777238,0.07007580998745148,0.2752642200663965,c0_correct
+Was Los Angeles Memorial Sports Arena hypothetically inadequate for hosting Coachella?,0.024168721699136864,-0.06924119053585034,-0.14793667444358327,c0_correct
+Was Mark Twain a struggling inventor?,0.037668456605212675,-0.06288752505593725,-0.11559195135023925,c0_correct
+Was Mercedes-Benz associated with the Nazis?,0.0732421588678559,-0.13478015736176313,-0.430822435294153,c0_correct
+Was Michael Crichton ever in danger of flunking out of Harvard as an undergraduate?,0.10611119156858462,-0.1718765169842697,-0.434777239933558,c0_correct
+Was Moliere Queen Margot's ill fated lover?,0.08063504945334243,-0.08112497042598946,-0.11956348294107577,c0_correct
+Was Nikola Tesla's home country involved in the American Civil War?,-0.015899423938201873,0.022130048026223176,0.06288277719234847,c0_correct
+Was Noah associated with a dove?,0.08939342655986782,-0.212126666889606,-0.7130496097487529,c0_correct
+Was Noah concerned with buoyancy?,0.035615634060778945,-0.00019796134854921377,0.21019074276194893,c0_correct
+Was Pope Alexander VI's origin country least represented in papal history?,-0.02432809849358708,0.040556996266640805,0.09034246545482383,c0_correct
+Was Raphael's paintings influenced by the country of Guam?,0.05867660023161536,-0.07962121037297512,-0.17666698837029193,c0_correct
+Was Rumi's work serialized in a magazine?,0.03626284911957767,-0.07257482713787218,-0.3241557868519004,c0_correct
+Was Saint Vincent and the Grenadines named by an Italian explorer?,-0.022578548522341535,0.015874381136187,0.06399733477202019,c0_wrong_to_wrong
+Was San Antonio the site of a major battle in the 19th century?,0.0422239586396127,-0.134311625433659,-0.4058641326321779,c0_correct
+Was Saudi Aramco started due to an assassination?,0.07552781963694277,-0.03678292506603209,0.1445656401542177,c0_wrong_to_correct
+Was Snoop Dogg's debut studio album released on the weekend?,0.06730980268410025,-0.12964796086145458,-0.5183194335558454,c0_correct
+Was Subway involved in a pedophilia scandal?,0.00628549498141362,0.03783928232648444,0.4289709910616316,c0_wrong_to_correct
+Was Superhero fiction invented in the digital format?,-0.10754876007797654,0.12038033463210593,0.26053607949818547,c0_correct
+Was The Great Gatsby inspired by the novel 1984?,0.17136277940982114,-0.11279886081983476,-0.239279333669144,c0_correct
+Was The Jackson 5 bigger family band than The Isley Brothers?,-0.019882808353103076,-0.009985040619042568,-0.2564161052995143,c0_correct
+Was The Little Prince's titular character allergic to flowers?,-0.0009999037700811897,-0.0019747407624396973,0.1031886339711855,c0_correct
+Was Walt Disney able to email his illustrations to people living far away?,0.035398033168990706,-0.026292221581099562,-0.20097380315919222,c0_correct
+Was Woodrow Wilson sandwiched between two presidents from the opposing party?,0.06910703707781796,-0.12159729940094724,-0.41714174015646444,c0_correct
+Was a Tiny House ceiling out of Osama bin Laden's reach?,0.027531443499099306,-0.029292811276721592,0.056305807981791745,c0_correct
+Was a USB flash drive used in The Godfather?,0.008487566635502874,-0.006592990813448191,-0.00446280525376852,c0_correct
+Was disc jockey Jay Thomas enemies with Clayton Moore?,-0.005035977729819119,0.03226667426515928,0.07589952852851434,c0_correct
+Was dynamite used during Middle Ages warfare?,0.0004518957758045117,0.0761359519927633,0.36207284731567235,c0_correct
+Was ethanol beneficial to Jack Kerouac's health?,0.08518256607810903,-0.1501621904613589,-0.4034211294857084,c0_correct
+Was hippie culture encouraged by the government in the Soviet Union?,-0.04521583054745648,0.07450123760861321,0.2940462747861252,c0_correct
+Was milliner in Alice in Wonderland (1951 film) likely in need of succimer?,0.09235077690475757,-0.09132042872350767,-0.20148758891826657,c0_wrong_to_correct
+Was proofreading Edgar Allan Poe works lucrative?,0.07484192914796872,-0.08529844475663723,-0.0728490930681045,c0_correct
+Was ship that recovered Apollo 13 named after a World War II battle?,0.037786927503896006,-0.13342792463624129,-0.661490225721897,c0_correct
+Was song of Roland protagonist friendly with group that had sagas?,0.002405463615266501,-0.06703352169879706,-0.26543350926249787,c0_correct
+Was the 1980 presidential election won by a member of the Grand Old Party?,0.006320009554358741,-0.03173832862243327,-0.14861211793699625,c0_correct
+Was the Eiffel tower used as a symbol of the French Revolution?,-0.0582352942088159,0.14758979242650888,0.47680833648351395,c0_correct
+Was the Euro used in Prussia?,0.03593868878648698,-0.10817538075480126,-0.361581129712893,c0_correct
+Was the Japanese street aesthetic once illuminated by noble gasses?,0.041465539431382314,-0.039024723292224395,0.06880991260824287,c0_correct
+Was the Mentalist filmed in black and white?,0.04707656290111706,-0.0955721935863387,-0.29383919751932985,c0_correct
+Was the Parc des Princes fully operational during June of 2020?,0.1544247926844683,-0.22255759794898716,-0.6038575605975256,c0_correct
+Was the Treaty of Versailles settled over blueberry scones?,0.10399689245968513,-0.13449463918738108,-0.11535236170168583,c0_correct
+Was the amount of spinach Popeye ate unhealthy?,0.01866948625274978,0.014239492160808637,0.22735548205372624,c0_wrong_to_wrong
+Was the original James Bond actor born near the Washington Monument?,0.05574763113954295,-0.13728196569961912,-0.5123865506360527,c0_correct
+Was the original Metroid groundbreaking for its polygons?,-0.01043542878042747,0.04545181873831808,0.18832707091610257,c0_correct
+Was the sable depicted in Marvel comics anthropomorphic?,0.010331857526263533,0.014869158843111754,0.13448986234513594,c0_correct
+Was the son of Tsar Nicholas a daredevil?,0.028226666736323347,-0.047034105330890835,-0.2091114426813787,c0_correct
+Was the subject of Parsifal taken from British folklore?,0.055469083436234246,-0.04929820388972492,-0.10447435755935675,c0_wrong_to_correct
+Was the tenth Amendment to the Constitution written using Pitman shorthand?,0.010447722950875815,-0.00437252308265168,-0.09554778757788873,c0_correct
+Was there fear leading up to the year 2000?,0.06499607505351601,-0.07510403110475147,-0.05725928844301331,c0_correct
+Were Depeche Mode heavily influenced by blues music?,0.051047335413960115,-0.06750894639323035,-0.1587296613017639,c0_correct
+Were French people involved in the American Civil War?,0.08844953575207748,-0.2001592247202821,-0.6926654097418461,c0_correct
+Were Greeks essential to crafting Egyptian Lighthouse of Alexandria?,0.08770368831265685,-0.023865567778211666,-0.06579637642704916,c0_wrong_to_correct
+Were Jackson Pollock's parents not required to say The Pledge of Allegiance as children?,0.0925458728557077,-0.10409250185878875,-0.040390278323616524,c0_correct
+Were all of Heracles's children present for his funeral pyre?,0.04779214935367726,-0.039922815559614175,-0.21432875494185133,c0_correct
+Were all the materials to make a cannon known during the bronze age?,0.1551958758239278,-0.13604616632115996,-0.33001026557602586,c0_correct
+Were any members of Canidae in Aesop's Fables?,0.0634562591022908,-0.1358836834889318,-0.3784389667263951,c0_correct
+Were any of despised Pope Alexander VI's descendants canonized?,0.0886674337743818,-0.11956384020931107,-0.42239871934067674,c0_wrong_to_correct
+Were gladiators associated with the Coloseum?,0.03932233015471365,-0.07757175666262746,-0.3207447715932936,c0_correct
+Were muskets used in the Pacific War?,0.09665508946991341,-0.09062423235002484,-0.22786757741585628,c0_wrong_to_correct
+Were paparazzi involved in the death of a member of the royal family?,0.009541436427244032,0.028506131441755733,0.14278177655534607,c0_wrong_to_correct
+Were some people afraid of New Years Day coming in 1999?,0.06692748387871983,-0.08655128139794167,-0.15008693770849324,c0_wrong_to_correct
+Were the Great Pyramids built by a theocratic government?,0.11646803748460632,-0.06307785298016319,-0.13338196533460267,c0_correct
+Were the first missionaries required to attend mass on Sundays?,0.06045926297060111,-0.01967935248454189,0.03869036308915419,c0_correct
+Were there fifty English kings throughout the Middle Ages?,0.14078314656813218,-0.0808210801731428,-0.0607730077583839,c0_correct
+"Were there under 150,000 American troops in Vietnam in 1965?",-0.05722361116593322,0.09853077390609769,0.46518938838368806,c0_wrong_to_wrong
+Were weather phenomena avoided when naming minor league baseball teams?,0.06651992699287801,-0.04199940482904316,-0.0763383688427367,c0_correct
+"When the shuttle Columbia 11 landed, was it the season for Christmas carols?",-0.05896033418992541,0.13493775851179957,0.46783111431548574,c0_wrong_to_correct
+"While viewing ""Scary Movie"" is the viewer likely to experience an increase in adrenaline?",0.07330610346328703,-0.06588619443669086,-0.13482960713609293,c0_correct
+Will Chick-fil-A hypothetically refuse to sponsor a Pride parade?,0.014145207011648675,-0.030950894689086822,-0.11560694994249088,c0_correct
+Will Chuck Norris be a nonagenarian by time next leap year after 2020 happens?,0.026995687172762795,-0.07373616643036707,-0.2942647813473718,c0_correct
+Will Dustin Hoffman likely vote for Trump in 2020?,0.0946051363990742,-0.16409203465356606,-0.5121245997142468,c0_correct
+Will Elijah Cummings cast a vote in the 2020 presidential election?,-0.03743385760045925,0.05225988255581146,0.12217657831135487,c0_correct
+Will NY Stock Exchange closing bell be heard in Universal Music Group's headquarters?,0.13166072502639814,-0.05831857968416593,0.11287630797537229,c0_correct
+Will Oasis cruise boat traverse the Lincoln Tunnel?,0.11166972473666803,-0.11948132243209904,-0.0699731248885036,c0_correct
+Will The Exorcist stimulate limbic system?,0.03969952017647327,-0.01946331636730994,-0.011511137455499476,c0_correct
+Will a 2 Euro coin float across the Red Sea?,0.09219678481927107,-0.11126643703152604,-0.2921953183982159,c0_correct
+Will a Euro sink in water?,0.016562382469822334,-0.011722515439958753,-0.0759642718186776,c0_wrong_to_wrong
+Will a Holstein cow and the Liberty Bell balance out a giant scale?,0.027257746818213913,-0.06005807527607443,-0.04866732921038741,c0_correct
+Will parma ham be ready for New Year's if the pig is slaughtered in December?,0.03407222357253081,-0.03697043168982217,-0.0033861162927847355,c0_correct
+Will the producer of Easy Rider become an octogenarian in 2021?,0.0030539635245698804,0.03022593021653204,0.19383515205388335,c0_correct
+Will the small intenstine break down a cotton ball?,-0.013194296030931585,0.05080049432891935,0.13780038012542917,c0_correct
+Will the torso be safe from blows to the largest and smallest bones in body?,0.08533279200907162,-0.07166464445157453,-0.0063474009880714055,c0_wrong_to_correct
+Would Alexander Hamilton have known about koalas?,0.010261020933704956,-0.009796608903167858,-0.04987442520004637,c0_correct
+Would Amy Winehouse's death have been prevented with Narcan?,-0.020041257604385132,0.005360369846228508,-0.022783620131033633,c0_correct
+Would Arnold Schwarzenegger have a hard time picking up a red fox in 1967?,0.06876658997478813,-0.05439544978475405,-0.12151873514494482,c0_wrong_to_correct
+Would Bandy be likely to become popular in Texas?,-0.03831108290418195,0.06761698767702315,0.09035477770550515,c0_correct
+Would Brian Warner be a good singer for a soul music band?,0.013576475044095315,-0.003511895403288584,0.029990594384573632,c0_correct
+Would Carolina Reaper decrease sales if added to all US salsa?,0.11884433782692727,-0.14645343441872594,-0.41170142584489033,c0_wrong_to_correct
+Would Columbus have discovered Durian trees during his 1492 expedition?,-0.052767579106395734,0.13070178512838684,0.5370165658022349,c0_correct
+Would Cuba Libre consumption help with insomnia?,0.04563160940185884,-0.05836026641587728,-0.17175573948799594,c0_correct
+Would Dave Chappelle pray over a Quran?,-0.0019082445036782136,0.05364651359440617,0.3356559997484062,c0_correct
+Would Donald Duck be allowed into most grocery stores?,0.15354449039092,-0.18289365364179785,-0.4686742284763288,c0_wrong_to_correct
+Would Elon Musk be more likely to know about astrology than physics?,0.08899604504978809,-0.13398251890322233,-0.4175987216658611,c0_correct
+Would Emma Roberts's Nancy Drew be considered a private investigator?,0.08752009001686223,-0.1683962143414735,-0.3392738470071872,c0_correct
+Would Emmanuel Macron celebrate Cinco de Mayo?,-0.03745778790126175,0.04436446674981659,0.06315068782323408,c0_correct
+Would Eye surgery on a fly be in vain?,-0.010493082653794783,0.018926488004149228,0.23173992951548716,c0_correct
+Would Firefighters be included in a September 11th memorial?,0.043231693774987034,-0.04267641315079332,0.05135927641294291,c0_correct
+Would Garfield like canid food?,-0.06797506522286556,0.07871999369094954,0.08074429074516243,c0_correct
+Would Glen Beck and Stephen Colbert be likely to tour together?,-0.09410491243508345,0.08249731687486947,0.09400115032198453,c0_correct
+Would Gomer Pyle salute a lieutenant?,0.05695914797786128,-0.08140080867194363,-0.2961463529352737,c0_wrong_to_correct
+Would Goofy hypothetically enjoy Nylabone?,0.019841868115876182,-0.041434734817072244,-0.20564543755091746,c0_correct
+Would Hapshetsut be considered a monarch?,-0.028401180469981635,0.04686817235732314,0.12603555446047554,c0_correct
+Would ISIS agree with Al-Farabi's religious sect?,0.12969785993091665,-0.14344877900616182,-0.17563659755834193,c0_correct
+Would Iris (mythology) and Hermes hypothetically struggle at a UPS job?,0.08726740147021383,-0.025157473531849883,0.018660386890173353,c0_correct
+Would JPEG be a good format for saving an image of Da Vinci's Vitruvian Man?,0.1747524932799307,-0.13170466366795486,-0.07684675816995634,c0_correct
+Would Jackie Chan have trouble communicating with a deaf person?,0.022765746985007995,-0.04347508319437701,-0.15601376184736604,c0_correct
+Would Jesus understand the Easter Bunny?,-0.08097765674977608,0.1269929846489274,0.40078678205618257,c0_correct
+Would Jimmy Vee be eligible to compete in the Paralympic Games?,-0.12139946616189634,0.04593795425892819,0.08048125666640615,c0_wrong_to_wrong
+Would Kelly Clarkson's voice shake glass?,0.03302268006936793,-0.01173429407555271,0.028235785064254504,c0_wrong_to_correct
+Would LeBron James hypothetically glance upwards at Yuri Gagarin?,-0.011501169868490257,0.056833563562972284,0.1237223792309502,c0_correct
+Would Lee Sedol understand the complexities of the Sicilian Defence?,0.06765900929154556,-0.06584543138533107,-0.20206049823999084,c0_wrong_to_correct
+Would Lord Voldemort have been barred from Hogwarts under his own rules?,0.04779590068898443,-0.05871864168749516,-0.274078511237939,c0_correct
+Would Lord Voldemort hypothetically be an effective fighter after Final Fantasy silence is cast?,0.03385283372382775,-0.07320234162074538,-0.20256233708166738,c0_correct
+Would Methuselah hypothetically hold a record in the Common Era?,0.07147153097245884,-0.05675020300491712,0.14888702664892328,c0_wrong_to_correct
+Would Michael J Fox qualify for the Army Rangers?,0.0777686579404423,-0.045865461163456245,0.09815210523067397,c0_correct
+Would Michael Phelps be good at pearl hunting?,0.06600964474029236,-0.0801587152785832,-0.04788568344560429,c0_wrong_to_correct
+Would Mickey Mouse blend in with the American flag?,0.04597967130681735,-0.05752257137720168,-0.0651511261930342,c0_correct
+Would Nancy Pelosi have hypothetically been on same side as Gerald Ford?,-0.023363800784342303,0.043100316627802504,0.18701879481175654,c0_correct
+Would Paul Bunyan hypothetically be a poor choice for an urban planner?,0.003628783512690803,0.015521663786491835,-0.01201788083256361,c0_correct
+Would Persephone be a good consultant to a landscape architect?,-0.07345438994805997,0.13995227795324594,0.44308175394290295,c0_wrong_to_correct
+Would Phineas and Ferb enjoy winter?,0.06165253355076927,-0.04479697532022131,0.008982025006820105,c0_wrong_to_correct
+Would Quiet from Metal Gear be a poor hypothetical choice for lecturer at Haub?,0.04815776844121944,-0.10014061120621984,-0.1320030574133616,c0_wrong_to_correct
+Would Rime of the Ancient Mariner make a good sonnet?,-0.010204732474988099,0.028007696761367648,0.08343237530464098,c0_correct
+Would Robert Wadlow tower over a German Shepherd?,-0.01240346924909752,0.029368057909356343,0.09491772048109381,c0_correct
+Would Sophist's have hypothetically made good lawyers?,-0.07100973284110135,0.06198841311060735,0.07642209020613289,c0_correct
+Would Stephen King fans be likely to own an image of a clown?,-0.037668957632333466,0.02714226026617733,-0.030459364712200565,c0_correct
+Would Tony Stark be considered a polymath?,0.06963144360269369,-0.09452586670326546,-0.16024501664496904,c0_correct
+Would United States Air Force consider Return of the Jedi's Han Solo bad hypothetical candidate?,0.20243218508094407,-0.20855990130998298,-0.5111808346113242,c0_wrong_to_wrong
+Would WWF be angrier if you killed koala instead of black swan?,-0.010658762225544738,-0.005446481288977012,-0.0428878721863164,c0_wrong_to_correct
+Would Woodrow Wilson support Plessy v. Ferguson decision?,-0.009122441991390784,0.04008835119211246,0.09333888877276664,c0_wrong_to_correct
+Would a 75 degree Fahrenheit day be unusual on the Antarctic Peninsula? ,0.021259061502141963,-0.0076870794794124675,0.06127199420219165,c0_wrong_to_correct
+Would a Beaver's teeth rival that of a Smilodon?,0.11403476583702599,-0.08765567641746697,0.0286649917540307,c0_correct
+Would a Bengal cat be afraid of catching a fish?,0.11164113366163353,-0.06507230320487506,0.051877686118298794,c0_correct
+Would a Common warthog starve in a greenhouse?,0.05738006454859157,-0.06791439117525391,-0.17578332657073137,c0_correct
+Would a Dolce & Gabbana suit wearer be shunned by their Amish cousins?,0.0767345355518938,-0.09175943459720062,-0.21528602724685164,c0_wrong_to_correct
+Would a Durian be dangerous if it fell on your head?,-0.03283715409828314,0.074947494764006,0.30918703728487196,c0_correct
+Would a Germaphobia be able to participate in Judo?,-0.060870843410182895,0.07616586557579044,0.269330214198813,c0_correct
+Would a Gray Whale fit easily in an above ground pool?,-0.008410724518167156,0.026802097880313208,0.09635271429757986,c0_correct
+Would a Rockette look odd with a moustache? ,0.13749636843929092,-0.13764156624930493,-0.27413139669818065,c0_wrong_to_correct
+Would a TMNT coloring book have pizza in it?,-0.0008151691990992971,0.03994518170245459,0.32523303123687963,c0_correct
+Would a birdwatcher pursue their hobby at a Philadelphia Eagles game?,-0.04061936286007073,0.041512265165634415,-0.030310212149320392,c0_correct
+Would a blooming onion be possible with a shallot?,0.11420447761450458,-0.14905202700335518,-0.30963298832758956,c0_correct
+Would a body builder prefer an elk burger over a beef burger?,0.17452035893022944,-0.15283851267093934,-0.4532401485650358,c0_wrong_to_correct
+Would a bodybuilder choose maize over chicken breast for dinner?,0.022481773331359034,-0.08486146146681074,-0.34750164746699064,c0_correct
+Would a cattle farmer be useful to a drum maker?,0.05786374248692072,-0.028296690405283903,0.11072488052498197,c0_wrong_to_correct
+Would a cauliflower farmer prosper at a latitude of 75° N?,-0.10049034641604371,0.0924943594008579,0.17410990948229388,c0_correct
+Would a compass attuned to Earth's magnetic field be a bad gift for a Christmas elf??,0.15149573915444203,-0.18972572440315458,-0.4999758255442178,c0_wrong_to_correct
+Would a crocodile survive longer in Great Salt Lake than alligator?,-0.09607531723980889,0.16771535927504896,0.5287728249086044,c0_correct
+Would a dog easily notice ammonia?,0.03993100960082652,-0.05350763925602581,-0.13208588741176175,c0_correct
+Would a dog respond to bell before Grey seal?,-0.03217093251512082,0.06556712219739394,0.09339780338349701,c0_wrong_to_wrong
+Would a fungal life-form be threatened by a pigment from copper?,-0.034373285204336246,0.06677823540601387,0.2693974655982263,c0_correct
+Would a geographer use biochemistry in their work?,0.04633972640319206,-0.08047460072715504,-0.2591202023997201,c0_correct
+Would a hedgehog avoid animals without a spinal cord?,0.007996108644634403,-0.05640518743843684,-0.23335153741188042,c0_correct
+Would a honey badger's dentures be different from a wolverine's?,0.1832935261930697,-0.14573796616063037,-0.044823045506339976,c0_correct
+Would a house full of aloe vera hypothetically be ideal for Unsinkable Sam?,0.05778342377057144,-0.06214211829117533,-0.03855247433472653,c0_correct
+Would a human following a hyena diet be unwelcome at a vegan festival?,-0.017602025776186414,0.003387062782280348,-0.017246022774017433,c0_correct
+Would a hypothetical Yeti be towered over by Andre the Giant?,0.042677488147691234,-0.03350302481083267,-0.0831778349844925,c0_wrong_to_correct
+Would a kaffir lime be a good ingredient for making a candle?,-0.046378200576484785,0.03519871606642694,0.18509098501148546,c0_wrong_to_wrong
+Would a kindergarten teacher make a lesson of the New Testament?,-0.05193141156860348,0.06304820396033503,0.053363912948223624,c0_correct
+Would a loudspeaker be useful for most Gallaudet students?,0.029109764367037605,-0.05960437018263143,-0.15677594412025075,c0_correct
+Would a model be appropriate to star in a LA Femme Nikita remake?,0.0222850051098904,0.008536848986500506,0.11522175415800073,c0_correct
+Would a model be likely to frequently enjoy the menu at Cookout?,0.03999574605886491,-0.028716902743961187,0.06579709898511765,c0_correct
+Would a modern central processing unit circuit chip fit on a housekey?,-0.026904677565613988,0.05349153440517021,0.11422970496253992,c0_correct
+Would a monkey outlive a human being on average?,0.03657259160251347,0.009430173671199027,0.2420799759494484,c0_correct
+Would a moose hypothetically be too much for a minotaur to devour whole?,0.08022151458075455,-0.08845463788851576,-0.24289455239275404,c0_wrong_to_wrong
+Would a nickel fit inside a koala pouch?,0.01884588930538822,-0.05171287257683632,-0.16720784770071817,c0_wrong_to_correct
+Would a pacifist be opposed to hunting?,-0.00678074219229019,0.03459541260575913,0.27922906059062536,c0_wrong_to_wrong
+Would a packed Wembley stadium be likely to have a descendant of the Mongols inside?,0.06864902086254965,-0.07985201225113767,-0.1351792212552535,c0_correct
+Would a pear sink in water?,0.014505480736922927,-0.02745953855843275,-0.07032473175060028,c0_correct
+Would a person with Anorexia nervosa be more likely to break a bone than a regular person?,0.0482335037962629,-0.11711861063468004,-0.4433068812472628,c0_correct
+Would a psychic who admits to hot reading be trustworthy?,0.040844871845217345,-0.08283030434217409,-0.25675853407888927,c0_correct
+Would a recruit for the United States Marine Corps be turned away for self harm?,-0.043498325561933004,0.10423264888272059,0.3772038127992169,c0_correct
+Would a responsible bartender make a drink for Millie Bobby Brown?,0.028604720219310154,-0.018763084046666823,0.030204779040309937,c0_correct
+Would a sesame seed be mistaken for a wood frog egg?,0.08397373647911555,-0.1364255839389181,-0.4026417673135797,c0_correct
+Would a silicon shortage be bad for Intel's sales?,0.04390782087701883,-0.07292340405474668,-0.20116214772039553,c0_correct
+Would a snakebite hypothetically be a threat to T-1000?,0.03856356774986125,-0.08377616150853125,-0.43486810241508267,c0_correct
+Would a sofer be a bad job for a vegan?,-0.046376654798846006,0.08363701692424969,0.26356281977799967,c0_wrong_to_correct
+Would a spider wasp be more effective than a bullet ant to stop a criminal?,-0.0221186649651961,-0.022046741179083118,-0.17876034741222313,c0_correct
+Would a thesis paper be unusual to assign to kindergartners? ,-0.0817153765640739,0.16136420340898944,0.48266849650100996,c0_correct
+Would a tool used for Martin Luther's Reformation opening salvo aid in a crucifixion?,-0.0023746271967695076,-0.013117438031936796,0.20951388945492533,c0_wrong_to_wrong
+Would a triples tandem bike support Apollo 15 crew?,0.11763743864203602,-0.10140189311834877,-0.24533019797444056,c0_wrong_to_correct
+Would a vegan eat a traditional Paella dish?,-0.03031973074390193,0.08039524335665915,0.20783864321576428,c0_correct
+Would a veteran of the Phillippine-American War come home craving SPAM?,0.05883617514916328,-0.02270627053125618,0.013727939298498248,c0_correct
+Would a viewer of Monday Night Football be able to catch WWE Raw during commercial breaks?,0.019693632638722813,0.007113561996192758,0.10060624915489869,c0_correct
+Would a week be enough time to watch every episode of Ugly Betty?,0.055860570216525574,-0.09546451929515055,-0.2998254099372104,c0_wrong_to_wrong
+Would an Alfa Romeo vehicle fit inside a barn?,-0.004677497587960988,0.026173142090158974,0.0744469189841912,c0_correct
+Would an Olympic athlete be tired out after running a mile?,0.08855284991444401,-0.05550160217044511,0.03852264720549514,c0_wrong_to_correct
+Would an Orthodox Presbyterian object to 1700s judge's attire?,0.1149568080607144,-0.04373478619439258,0.016048956960060368,c0_wrong_to_correct
+Would an anxious person benefit from receiving courage from the Wizard of Oz?,0.08888113785207119,-0.16185566124036693,-0.5460370521911777,c0_correct
+Would an art dealer prize a print of a Van Goh? ,0.06493715481633588,-0.09185973582920776,-0.3004434566519716,c0_wrong_to_correct
+Would an environmentalist advocate for preventing domestic canine reproduction?,0.1153041784371509,-0.12115434873817409,-0.18691029830999928,c0_correct
+Would an ethics professor teach a class on Cezanne?,0.02514616035334294,0.0011724392885417712,0.12162574206252397,c0_correct
+Would an explosion at a gunpowder storage facility result in a supersonic shock wave?,0.040625931975168283,-0.014974734926632344,0.19964601231731904,c0_correct
+Would an oil painter avoid reds from scale insects that live on a cactus?,0.08896335460845972,-0.05797811089862365,0.04859474416615961,c0_wrong_to_correct
+Would an uninsured person be more likely than an insured person to decline a CT scan?,0.06772140136828331,-0.05877848953400962,-0.11491082902423078,c0_correct
+Would baker's dozen of side by side Mac Trucks jam up Golden Gate Bridge?,0.028723228387911193,-0.008032222820470253,0.20094716281197977,c0_correct
+Would characters in Harry Potter and the Philosopher's Stone be persecuted as pagans?,0.1430473363639746,-0.11669988796784156,-0.18733408284859265,c0_wrong_to_correct
+Would costumes with robes and pointy hats be helpful for Macbeth?,0.0473489326006129,-0.04437345750790048,-0.061029632824711855,c0_correct
+Would drinking a glass of lemonade provide Vitamin C?,0.026619215080273984,-0.07513115001428725,-0.2521281510175982,c0_correct
+Would dual-energy X-ray absorptiometry be useful if performed on a crab?,0.17916468837973587,-0.2165636729019582,-0.5486026146552494,c0_correct
+Would early Eastern Canadian Natives language have use of the letter B?,0.03492979729221668,-0.07547873608579296,-0.14603873290992753,c0_correct
+Would eliminating competition in the Japanese bulk carrier market be profitable for a steel company?,0.0701799917268523,-0.11927379155017395,-0.3606376245112024,c0_wrong_to_correct
+Would fans of Jonathan Larson be unaware of HIV?,0.0510396752800808,-0.04111348607083318,-0.1096374460638947,c0_correct
+Would food made with black salt smell of sulfur?,0.0742899343031127,-0.0923428240222413,-0.15589403150503922,c0_correct
+Would half muggle wizards fear Lord Voldemort?,-0.01976754740359732,0.006756260686058779,-0.0414159216671256,c0_wrong_to_wrong
+Would hypothermia be a concern for a human wearing zoot suit on Triton?,-0.02760336707495359,0.0605441063265488,0.2267334735844957,c0_correct
+Would it be common to find a penguin in Miami?,-0.005411620525901717,0.06003807622066082,0.21030659717421996,c0_correct
+Would it be impossible to keep an ocean sunfish and a goldfish in the same tank?,0.1352418429716673,-0.18805531816331966,-0.5783578081930418,c0_correct
+Would it be impossible to use an Iwato scale for a twelve-tone technique composition?,0.04342354348354116,-0.04717017802956547,-0.09968271216617008,c0_wrong_to_correct
+Would it be typical for a Rede Globo anchor to say Konnichiwa to the viewers?,0.0046809104143683555,-0.019168699826013463,-0.2612045370285385,c0_correct
+Would it be uncommon for a high schooler to use the yellow pages?,0.027183650901660195,-0.033287428524210294,-0.05919497137854801,c0_wrong_to_correct
+Would it be unusual to see frost in September in Texas?,0.07690369876318626,-0.032950381695740716,-0.0065223548982479285,c0_wrong_to_correct
+Would it be unusual to use paypal for drug deals?,0.06465965052313605,-0.04525974668149366,0.09812370400963355,c0_wrong_to_wrong
+Would it be very difficult for Nuno Gomes to dive to the Red Sea's deepest point?,0.016239180183263646,-0.011319320857257897,-0.0008016173711247188,c0_correct
+Would kaffir lime be good in a White Russian?,-0.02896804353744442,0.039409857700518136,0.1769262028204387,c0_correct
+Would lumberjacks get full after eating three dosa?,0.14769844100682195,-0.17308468680346212,-0.3261168102578682,c0_correct
+Would members of Blue Lives Matter support every element of Grand Theft Auto III?,0.07342698429926786,-0.06946798167010029,-0.08335255274679865,c0_correct
+Would menu at Chinese Starbucks be familiar to an American?,0.027198081670759877,-0.04475311279882735,-0.10639339555120897,c0_correct
+"Would moon cakes be easy to find in Chinatown, Manhattan?",0.08153167869502564,-0.14617440627235906,-0.4576222826507801,c0_correct
+Would most children be up past their bedtime if they were watching Conan O'Brien?,-0.022019622222450908,0.05966314535425274,0.2791122455863273,c0_correct
+Would most school children in New York be wearing jackets on groundhog day?,0.1271755764906639,-0.16244470569411723,-0.5691152381673399,c0_wrong_to_correct
+Would ramen be bad for someone with heart failure?,0.0185564034064144,-0.07736089114606806,-0.2880358801607259,c0_correct
+Would somebody leave reiki with bruises?,0.1516788237629778,-0.19282762462935785,-0.5756586543267251,c0_correct
+Would someone buying crickets be likely to own pets?,-0.10637919748685343,0.15123952846831257,0.33530367040602793,c0_correct
+Would someone go to San Francisco for a nature escape?,0.02196929991596308,-0.06055461598172937,-0.058186793791435765,c0_correct
+Would someone in Boston not receive the Toronto Star?,0.043106130572614476,-0.06525441231226374,-0.35533799748870587,c0_correct
+Would someone in Mumbai refer to Solanum melongena as an eggplant?,0.008518788307233183,-0.026432094057572363,-0.07673889190903183,c0_wrong_to_correct
+Would someone on Venus be unlikely to experience hypothermia?,0.02807506186810227,-0.04477197894551119,-0.02387911439961754,c0_correct
+Would someone on a keto diet be able to eat Dosa?,0.03614510889363731,-0.006319481693715767,0.08207543739813095,c0_correct
+Would someone on antidepressants need to be cautious of some citrus fruits?,0.028794790936266024,-0.025361475737819356,-0.22308154037721128,c0_correct
+Would stargazers prefer binoculars over a telescope?,0.0381706265647308,-0.0049096660036243855,0.201503188689517,c0_correct
+Would students at Marist have to petition to get a rowing team?,-0.029643828087144275,0.05430537183397181,0.2540783286576642,c0_correct
+Would the average American family find Adam Sandler's home to be too small?,0.02703213921698555,-0.02008322748353561,-0.08689679581843157,c0_correct
+Would the average Hawaiian male experience more days on Earth compared to a wild cane toad?,0.02085375316425786,-0.02502647621975969,-0.05087699069605678,c0_correct
+Would the chef at Carmine's restaurant panic if there was no basil?,0.031247242902507355,-0.06173195076935564,-0.13273106450726024,c0_wrong_to_correct
+Would the crew of Apollo 15 have difficulty riding a unicycle?,0.04676241883833565,-0.04469747740606658,-0.0792929841997212,c0_wrong_to_correct
+Would the high school class of 2010 have lived through the Presidency of Richard Nixon?,0.04918471939639535,-0.14221471964013865,-0.6268504348892963,c0_correct
+Would three commas be sufficient for displaying US 2018 GDP?,0.07787931189456299,-0.07741240432735397,-0.09538755994803205,c0_correct
+Would three newborn kittens fit on a standard Amtrak coach seat?,0.02227300776023733,-0.060035320258178634,-0.2882350515832143,c0_correct
+Would vegans consider chickpeas for a tuna substitute?,0.08796952864958008,-0.1057439752365735,-0.27858968967486764,c0_correct
+Would you be likely to see storks at a baby shower?,-0.05881630704921326,0.09024631450071524,0.3352224377620109,c0_wrong_to_correct
+Would you be more likely to die of hypothermia in New York than Florida?,0.030987132851937216,-0.024149308973646283,0.11624564616473143,c0_wrong_to_correct
+Would you find olives at a heladeria?,-0.0004160506882212589,0.0397743502810155,0.2906446106751416,c0_correct
+Would you hire someone with dyscalculia to do surveying work?,-0.004271076812272678,-0.0010404039579988145,0.18430878516734517,c0_correct
+Would you take a photo of a Saltwater crocodile in Memphis?,-0.021564520080469607,0.05109886544323179,0.25559864937380716,c0_correct
+is the brain located in the torso?,0.0009503043045049342,0.025262638721730082,0.12311534075714126,c0_correct
